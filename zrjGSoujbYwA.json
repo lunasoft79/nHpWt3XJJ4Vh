@@ -1,0 +1,1300 @@
+{
+"data":
+[
+  {
+    "contenido" : "Euskera: Urkia<br /> Francés: Bouleau.<br /> Inglés: Birch-tree.<br /> genero: Betuláceas. Arbol de hojas pequeñas, de corteza y madera blancas. De países fríos y templados, es abundante en Europa. Su corteza contiene un aceite que se usa para curtir y aromatizar la piel de Rusia. Sus hojas triangulares se utilizan en fitoterapia gracias a las propiedades diuréticas y depurativas de sus flavonoides, muy eficaces para tratar las retenciones de agua. Gracias a recientes investigaciones científicas, se ha descubierto una sustancia extraída de la corteza del abedul, el ácido betulínico, que combate el desarrollo de lesiones cutáneas graves producidas por el sol. El extracto de abedul blanco se emplea por su acción protectora y su capacidad para aumentar la resistencia cutánea.<br /> Indicaciones: Cistitis, Reumatismo, Cólico Nefrítico, Celulitis, Caspa<br /> Propiedades: Diurética, Febrífuga, Depurativa, Sudorífica y Tonificante<br /> Usos: Infusión, Decocción<br /> Partes utilizadas: Hoja, Corteza, Yema y Savia. ",
+    "usos" : "» Cistitis » Reumatismo » Cólico Nefrítico » Celulitis » Caspa",
+    "titulo" : "Abedul",
+    "id" : "1",
+    "imagen" : "abedul",
+    "genero" : "Betuláceas"
+  },
+  {
+    "contenido" : "Euskera: Osterzuria<br /> Francés: Chicorée.<br /> Inglés: Chicory.<br /> genero: Compuestas. Planta herbácea de flores azules y hojas recortadas, ásperas y comestibles. La infusión de la silvestre es un remedio tónico aperitivo.<br /> Indicaciones: Indigestión<br /> Propiedades: Aperitiva, Digestiva y Tonificante<br /> Usos: Cruda, Infusión, Decocción <br /> Partes utilizadas: Flor, Hoja y Raíz. ",
+    "usos" : "» Indigestión",
+    "titulo" : "Achicoria",
+    "id" : "2",
+    "imagen" : "achicoria3",
+    "genero" : "Compuestas"
+  },
+  {
+    "contenido" : "Euskera: Nabar Lorea<br /> Inglés: Corn-flower.<br /> genero: Compuestas.<br /><br /> Planta perenne medicinal, de tallo lanudo, hojas lanceoladas y flores de color azul intenso con cabezuela escamosa, muy común en los sembrados. Se utilizaba antiguamente para obtener tintes y hacer tinta.<br /> Indicaciones: Fiebre, Ojos<br /> Propiedades: Astringente, Febrífuga, Oftalmólica<br /> Usos: Infusión<br /> Partes utilizadas: Flor<br /> Uso tópico: Calma los cutis irritados. ",
+    "usos" : "» Fiebre » Ojos",
+    "titulo" : "Aciano",
+    "id" : "3",
+    "imagen" : "aciano",
+    "genero" : "Compuestas"
+  },
+  {
+    "contenido" : "Euskera: Latxaskia<br /> Inglés: Agrimony.<br /> genero: Rosáceas.<br /><br /> Planta de pequeñas flores amarillas cuyas hojas se emplean como astringente y las flores sirven para curtir cueros. Crece en las lindes de los senderos.<br /> Indicaciones: Diarrea, Garganta, Heridas, Indigestión, Laringitis, Riñon, Vesículas<br /> Propiedades: Astringente, Desinflamatoria, Digestiva, Diurética, Estimulante biliar<br /> Usos: Decocción, Infusión<br /> Partes utilizadas: Flor, Hoja y Tallo. ",
+    "usos" : "» Diarrea » Garganta » Heridas » Indigestión » Laringitis » Riñon » Vesículas",
+    "titulo" : "Agrimonia",
+    "id" : "4",
+    "imagen" : "agrimonia2",
+    "genero" : "Rosáceas"
+  },
+  {
+    "contenido" : "Euskera: Azitraia<br /> Otros nombres: Jedrea, Hisopillo, Morquera, Saborea<br /> genero: Labiadas.<br /><br /> La Ajedrea, de intenso aroma, es una planta vivaz, de ramas muy delgadas, originaria de las montañas de Europa meridional. Crece en un suelo calizo y árido, en matas ramificadas. Sus pequeñas flores blancas, rosadas o lila, tienen sabor a pimienta y son muy aromáticas. La esencia de Ajedrea es un bactericida extraordinario para la Dermatología. Es además estomacal, tónica y al parecer, afrodisíaca.<br /> Indicaciones: Astenia, Flatulencias, Indigestión.<br /> Propiedades: Aperitiva, Carminativa, Digestiva, Tonificante.<br /> Usos: Infusión.<br /> Partes utilizadas: Flor, Hoja. ",
+    "usos" : "» Astenia » Flatulencias » Indigestión",
+    "titulo" : "Ajedrea",
+    "id" : "5",
+    "imagen" : "ajedrea1",
+    "genero" : "Labiadas"
+  },
+  {
+    "contenido" : "Euskera: Asentsio Belarra<br /> Francés: Absinthe.<br /> Inglés: Absinth.<br /> genero: Compuestas.<br /><br /> Planta aromática que crece en lugares incultos. Por su contenido en absintina se utiliza con fines medicinales y para aromatizar la bebida de mismo nombre.<br /> Indicaciones: Flatulencias, Indigestión, Trastornos menstruales.<br /> Propiedades: Aperitiva, Carminativa, Emenagoga, Tonificante y Vermífuga.<br /> Usos: Infusión, Maceración.<br /> Partes utilizadas: Flor. ",
+    "usos" : "» Flatulencias » Indigestión » Trastornos menstruales",
+    "titulo" : "Ajenjo",
+    "id" : "6",
+    "imagen" : "ajenjo",
+    "genero" : "Compuestas"
+  },
+  {
+    "contenido" : "Euskera: Baratxuria<br /> Francés: Ail.<br /> Inglés: Garlic.<br /> genero: Liliáceas.<br /><br /> Planta de hojas estrechas y ensiformes y flores pequeñas y blancas, originaria de Asia Central. Su bulbo, compuesto de varias partes ó dientes, de fuerte olor característico, se utiliza como condimento.<br /> Usos y Propiedades: <br /> Los efectos saludables del ajo son ampliamente conocidos y desde la antigüedad, ha ocupado un lugar destacado en el campo de la salud: ya los egipcios lo calificaron de divino. El ajo ayuda a prevenir la arteriosclerosis y los accidentes vasculares por su actividad hipolipemiante. Las propiedades del ajo se deben a una sustancia de naturaleza azufrada: la aliína, ó disulfuro de alilo, un antibiótico natural, útil en las afecciones respiratorias y responsable de su olor característico. Desgraciadamente, esta sustancia se destruye con el calor. Por lo tanto, el ajo que se utiliza con fines culinarios carece de propiedades medicinales.<br /> Indicaciones: Arteriosclerosis, Dispepsia, Hipertensión, Lombrices.<br /> Propiedades: Antiséptica, Bactericida, Carminativa, Desintoxicante, Hipotensora.<br /> Usos: Crudo.<br /> Partes utilizadas: Bulbo. ",
+    "usos" : "» Arteriosclerosis » Dispepsia » Hipertensión » Lombrices",
+    "titulo" : "Ajo",
+    "id" : "7",
+    "imagen" : "ajo",
+    "genero" : "Liliáceas"
+  },
+  {
+    "contenido" : "Francés: Basilic.<br /> Inglés: Sweet basil.<br /> genero: Labiadas.<br /><br /> Usos y Propiedades: <br /> Planta aromática, de flores blancas purpúreas, originaria de la India y muy extendida en los trópicos del Viejo Mundo. Se cultiva en el Sur de Francia, en España y en Alemania, como condimento y para la obtención de esencia de albahaca.<br /> En la fitoterapia y prácticas espirituales hindúes, se cree que se abre el corazón y la mente. No sólo despeja y ayuda a que las células cerebrales se oxigenen, sino que, además libera nuestro ánimo de la irritación nerviosa, la ansiedad y las migrañas tensionales.<br /> Por su acción sedante y antiespasmódica, se utiliza también para combatir los dolores de la regla, favorecer la capacidad de concentración y alejar del pensamiento las ideas obsesionantes o preocupantes.<br /> Precauciones: Las embarazadas no deben usar su aceite esencial por vía oral. Tampoco deben consumirla los niños menores de tres años.<br /> Uso: Infusión.<br /> Uso tópico como Planta Aromática. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Albahaca",
+    "id" : "8",
+    "imagen" : "albahaca",
+    "genero" : "Labiadas"
+  },
+  {
+    "contenido" : "Euskera: Orburua<br /> Francés: Artichaut.<br /> Inglés: Artichoke.<br /> genero: Compuestas.<br /><br /> La alcachofa es una de las plantas medicinales más reputadas. Esta planta en realidad es una variedad no espinosa del cardo salvaje de las regiones mediterráneas. De ella consumimos la flor, aunque son sus hojas las que le confieren sus importantes propiedades terapéuticas.<br /> Su acción colerética (aumento de la secreción biliar) se atribuye a una sustancia amarga y aromática: la cinarina. Es especialmente útil en el caso de congestión o hígado perezoso, ictericia y mala digestión de las grasas. Al estimular la secreción biliar, actúa también sobre los estados de estreñimiento. La hoja de la alcachofa contiene además esteroles, magnesio, potasio... compuestos que actúan en sinergia con la cinarina. <br /> La alcachofa estimula la regeneración de las células del hígado cuando éstas están expuestas a diversas toxinas. Además, su actividad depurativa resulta muy interesante en el tratamiento coadyuvante de las dietas de control de peso. También se han demostrado sus propiedades hipocolesterolemiantes.<br /> Indicaciones: Diabetes, Hígado, Náuseas, Riñón, Vesícula biliar.<br /> Propiedades: Aperitiva, Diurética, Hipoglucemiante.<br /> Usos: Cruda, Decocción.<br /> Partes utilizadas: Hoja y Fruto. ",
+    "usos" : "» Diabetes » Hígado » Náuseas » Riñón » Vesícula biliar",
+    "titulo" : "Alcachofa",
+    "id" : "9",
+    "imagen" : "alcachofa",
+    "genero" : "Compuestas"
+  },
+  {
+    "contenido" : "Francés: Luzerne.<br /> Inglés: Lucerne.<br /> genero: Papilionácea.<br /><br /> Planta forrajera de pequeñas flores violáceas, originaria de Asia y Africa del Norte. Los Arabes la bautizaron con el nombre de al-facfacah, lo que significa madre de todos los alimentos. La utilizaban para fortalecer el cabello.<br /> Usos y Propiedades:<br /> La alfalfa constituye una de las fuentes minerales más ricas conocidas gracias a su raiz que es capaz de absorber nutrientes difícilmente accesibles a la mayoría de las plantas. Tradicionalmente se utiliza el exudado de las hojas, rico en proteínas, aminoácidos, minerales como el calcio, y oligoelementos (sílice, hierro, fósforo, cobre, zinc y selenio). Es un excelente estimulante general y especialmente, gracias a sus efectos remineralizantes, es beneficiosa para mejorar los problemas de uñas frágiles y cabellos apagados, abiertos y quebradizos.<br /> Aporta todas las vitaminas conocidas, incluída la vitamina K esencial para la síntesis de los factores de coagulación, por lo que se recomienda en casos de anemia. Hay que destacar también la presencia de un estrógeno vegetal, el cumestrol, que posee una doble acción, hormonal y remineralizante por el calcio y la sílice, por lo que la alfalfa podría ser de utilidad en la menopausia y la osteoporosis.<br /> Partes utilizadas: Hojas. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Alfalfa",
+    "id" : "10",
+    "imagen" : "alfalfa",
+    "genero" : "Papilionácea"
+  },
+  {
+    "contenido" : "genero: Liliáceas. Descripción: El áloe vera es una planta con numerosas hojas largas y carnosas, con dientes espinosos, originaria de Africa Oriental y Meridional que alcanza de 2 a 3 metros de altura. En Medicina, se utiliza el zumo de las hojas cuajado en una masa sólida de color muy oscuro y muy amargo. Su nombre proviene de la palabra árabe Alloeh que significa sustancia amarga y brillante.<br /> En la antigüedad, los Egipcios, los Romanos, los Griegos, los Indios y los Chinos le dieron múltiples utilizaciones cosméticas. Se dice que Cleopatra atribuía su belleza a la utilización del gel de áloe. Por otra parte, los historiadores aseguran que Aristóteles convenció a Alejandro el Grande para que conquistara la Isla de Socotra en Africa, con el propósito de obtener cantidades suficientes de áloe para utilizarlas en la curación de las heridas de los soldados.<br /> Partes utilizadas: Zumo de las Hojas.<br /> Usos y Propiedades: <br /> Empleada durante siglos por sus múltiples virtudes curativas, el interior de sus hojas contiene une sustancia de notables propiedades antiinflamatorias y cicatrizantes. Por ello se emplea para el alivio y cicatrización de quemaduras accidentales o causadas por los rayos UVA.<br /> Indicaciones: Quemadura, Cortes y heridas, Cuidado del pelo y del cuero cabelludo (calvicie), Hemorroides y venas varicosas, Psoriasis, erupciones y manchas de la piel, Picaduras de insectos, Dolores musculares, Problemas digestivos, Artritis, Sinusitis y Asma. ",
+    "usos" : "» Quemadura » Cortes y heridas » Cuidado del pelo y del cuero cabelludo (calvicie) » ",
+    "titulo" : "Aloe Vera",
+    "id" : "11",
+    "imagen" : "aloe",
+    "genero" : "Liliáceas"
+  },
+  {
+    "contenido" : "Nombre común o vulgar: Pie de león, Alquemila, Alchemila, Alchimilla, Alquimila, Manto de Nuestra Señora, Pata de León<br /> Inglés: Lady Mantle<br /> Nombre científico o latino: Alchemilla Vulgaris<br /> genero: Rosáceas<br /><br /> Planta herbácea anual, de tallos erguidos y ramosos, muy frecuente en praderas, pastos húmedos y bosques, tiene flores de color verde dispuestas en cimas.<br /> El alto contenido en taninos concede a la alquimila una eficaz acción tonificante y astringente; además, calma las inflamaciones de la piel y constituye una verdadera trampa para los radicales libres, gracias la asociación de los taninos con los flavonoides.<br /> Propiedades: Depurativas. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Alquimila",
+    "id" : "12",
+    "imagen" : "alquimilla",
+    "genero" : "Rosáceas"
+  },
+  {
+    "contenido" : "Euskera: Lo Belarra<br /> Francés: Coquelicot.<br /> Inglés: Poppy.<br /> genero: Papaveráceas.<br /><br /> Planta herbácea, la amapola es originaria de Oriente Medio y fué implantada en Europa al mismo tiempo que los cereales. Es una planta de flores de un bello color rojo y con estambres negros que cuelgan en el extremo de un pedúnculo delgado y velludo. Durante muchos siglos, la amapola adornó los campos de trigo antes de ser utilizada en cosmetología por sus propiedades suavizantes.<br /> Indicaciones: Bronquitis, Insomnio, Tos.<br /> Propiedades: Antiespasmódica, Calmante, Narcótica.<br /> Usos: Infusión.<br /> Partes utilizadas: Flor, Cápsula. ",
+    "usos" : "» Bronquitis » Insomnio » Tos",
+    "titulo" : "Amapola",
+    "id" : "13",
+    "imagen" : "amapola",
+    "genero" : "Papaveráceas"
+  },
+  {
+    "contenido" : "Descripción: Esta bella planta, originaria de California, se introdujo en Europa en el Siglo XIX como planta ornamental.<br /> Usos y Propiedades:<br /> Contiene un hipnótico natural de la familia de los alcaloides, la eschscholtzina, que ejerce un efecto beneficioso sobre la calidad del sueño en la fase de conciliación, aunque también sobre los sueños nocturnos y las pesadillas. Es sedante sin ser narcótica, y se tolera perfectamente. Es un buen ansiolítico que combate el estrés y permite reducir el nerviosismo producido por los trastornos del sueño. <br /> Esta planta puede sustituir perfectamente a los hipnóticos actuales sin producir dependencia, toxicidad o efectos secundarios. Gracias a sus propiedades antiespasmódicas, está indicada para atenuar los dolores o calambres que acompañan a los trastornos del sueño. Por último, alivia los picores en caso de urticaria, por su efecto sedante. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Amapola de California",
+    "id" : "14",
+    "imagen" : "amapola1",
+    "genero" : ""
+  },
+  {
+    "contenido" : "Inglés: Garden angelica.<br /> genero: Umbelíferas.<br /><br /> Planta aromática, ramosa, de flores de color blanco rojizo, es esencialmente una planta cultivada. Se encuentra en estado salvaje en los macizos montañosos de los Alpes y los Pirineos. Posee una raiz grande que contiene un aceite esencial beneficioso sobre todo, para el sistema digestivo.<br /> Usos y Propiedades: <br /> Debido a sus excelentes propiedades antiespasmódicas, actúa sobre las colitis calmando eficazmente los espasmos intestinales y los dolores. Favorece además la secreción biliar, facilitando la digestión. Evita la formación de gases y combate la aerofagia.<br /> Partes utilizadas: Raiz, Fruto. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Angélica",
+    "id" : "15",
+    "imagen" : "angelica",
+    "genero" : "Umbelíferas"
+  },
+  {
+    "contenido" : "Euskera: Anis Belarra<br /> Otros nombres: Matalahuva, Matalahuga. <br /> Francés: Anis.<br /> Inglés: Anise.<br /> genero: Umbeliferas.<br /><br /> Planta de flores blancas y semilla aromática y de sabor agradable, es originaria de Oriente Medio y crece con tallos altos y rectos. El Anís Verde se cultiva principalmente en las regiones meridionales. En pocas ocasiones se encuentra en estado silvestre.<br /> Indicaciones: Bronquitis, Flatulencias, Tos.<br /> Propiedades: Antiespasmódica, Aperitiva, Carminativa, Digestiva, Expectorante, Diurético, Estomacal, Galactógena. El Anís Verde facilita la digestión, alivia la flatulencia, y es también sudorífico.<br /> Usos: Infusión, Esencia.<br /> Partes utilizadas: Fruto. ",
+    "usos" : "» Bronquitis » Flatulencias » Tos",
+    "titulo" : "Anis",
+    "id" : "16",
+    "imagen" : "anis",
+    "genero" : "Umbeliferas"
+  },
+  {
+    "contenido" : "Euskera: Perrexill Hezea<br /> Francés: Céleri.<br /> Inglés: Celery.<br /> genero: Umbelíferas.<br /><br /> Planta hortense, de flores pequeñas y blancas, de la que se consumen las puntas de los pecíolos - Apio de pencas - o la raiz - Apio-rábano -. El apio es muy recomendable para la cura de enfermedades renales por sus propiedades depurativas y diuréticas.<br /> Indicaciones: Gota, Hidropesía, Hígado, Indigestión, Reumatismo, Vesículas.<br /> Propiedades: Diurético y Depurativo, Tonificante.<br /> Usos: Cruda, Decocción.<br /> Partes utilizadas: Hoja y Tallo. ",
+    "usos" : "» Gota » Hidropesía » Hígado » Indigestión » Reumatismo » Vesículas",
+    "titulo" : "Apio",
+    "id" : "17",
+    "imagen" : "apiocaballar",
+    "genero" : "Umbelíferas"
+  },
+  {
+    "contenido" : "Euskera: Usin Belarra<br /> Francés: Arnique.<br /> Inglés: Arnica.<br /> genero: Compuestas. El árnica, planta de flores amarillas con la que se prepara una tintura útil para las contusiones y heridas, crece en montañas y brezales de toda Europa.<br /> Indicaciones: Contusiones.<br /> Propiedades: Activante circulatorio, Vasodilatadora.<br /> Usos: Maceración.<br /> Partes utilizadas: Flor. ",
+    "usos" : "» Contusiones",
+    "titulo" : "Arnica",
+    "id" : "18",
+    "imagen" : "arnica",
+    "genero" : "Compuestas"
+  },
+  {
+    "contenido" : "Francés: Riz.<br /> Inglés: Rice.<br /> genero: Gramíneas.<br /><br /> Planta nativa de los trópicos, cultivada en terrenos húmedos y cálidos, cuyo grano harinoso es un excelente alimento. Rica en fécula, la planta de grano Oryza Sativa ha dado de comer a más personas que ninguna otra a lo largo de la historia. En Tailandia, Birmania, India y China se cultiva desde hace unos 8.000 años y hoy sigue siendo un alimento básico en Asia. Procedente de las zonas tropicales, el arroz ha conquistado todos los continentes y hábitats, creciendo tanto al nivel del mar como en altitudes de hasta 2.000 metros.<br /> Para las personas que sufren de graves irritaciones digestivas se recomienda tomar el cocimiento de agua con arroz, sólo o mezclado con otras plantas aromáticas calmantes.<br /> Partes utilizadas: Fruto. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Arroz",
+    "id" : "19",
+    "imagen" : "arroz",
+    "genero" : "Gramíneas"
+  },
+  {
+    "contenido" : "Otros nombres: Altamisa o Hierba de San Juán.<br /> Francés: Armoise.<br /> genero: Compuestas. Planta aromática, de hojas blancuzcas por el envés, y flores en panoja con el centro amarillo, se encuentra principalmente por las zonas templadas del hemisferio norte. Esta planta aromática se puede tomar en infusión. Ayuda a regular la menstruación. Ayuda asimismo a hacer la digestión.<br /> Usos: Infusión. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Artemisa",
+    "id" : "20",
+    "imagen" : "artemisa",
+    "genero" : "Compuestas"
+  },
+  {
+    "contenido" : "Euskera: Oloa<br /> Francés: Avoine.<br /> Inglés: Oats.<br /> genero: Gramíneas.<br /><br /> Planta de cañas delgadas y flores en panoja, la avena es un cereal muy común en Europa. Su origen hay que buscarlo en Asia, de donde probablemente llegó a Europa, extendiéndose su cultivo de forma importante entre germanos, celtas y eslavos.<br /> Es famosa desde la Antigüedad, por sus virtudes medicinales. En la Edad Media, sus granos eran molidos y se utilizaban en forma de cataplasmas con propiedades revitalizantes y calmantes. En cosmetología, la avena se utiliza por su acción hidratante y suavizante en la formulación de productos para las pieles secas.<br /> Indicaciones: Astenia, Diarrea, Hígado.<br /> Propiedades: Antidiarreica, Calmante, Diurética, Laxante, Nutritiva, Reconstituyente.<br /> Usos: Decocción.<br /> Partes utilizadas: Fruto. Francés: Bambou.<br /> Inglés: Bamboo.<br /> Originario de la India, el bambú es una caña que tras un crecimiento rápido, puede alcanzar más de 10 metros de altura. En medicina natural, los chinos recogen de los nudos del tallo, un exudado que se llama bamboosil (tabashir en la India).<br /> Usos y Propiedades:<br /> El bambú posee un alto contenido en sílice. Este oligoelemento, abundante en la naturaleza, ha disminuido su presencia en la desvitalizada alimentación moderna. Sin embargo, la sílice es una sustancia importante para el cuerpo, sobre todo para la piel y los huesos. Estimula la síntesis del colágeno contenido en los tejidos óseos y conjuntivos, facilitando así la reconstitución del cartílago destruido a causa de las enfermedades articulares como la artrosis. A esta beneficiosa acción sobre las articulaciones, se añade un efecto remineralizante que puede ser beneficioso en la menopausia. ",
+    "usos" : "» Astenia » Diarrea » Hígado",
+    "titulo" : "Bambú",
+    "id" : "21",
+    "imagen" : "bambu",
+    "genero" : "Gramíneas"
+  },
+  {
+    "contenido" : "Francés: Bardane.<br /> Inglés: Burdock.<br /> genero: Compuestas.<br /><br /> La bardana es una robusta planta propia de las regiones templadas. En fitoterapia se utiliza su raíz por su gran riqueza en polienos y ácidos alcoholes que, al actuar sobre los microorganismos de la piel, le confieren a esta planta una importante acción antibacteriana y antiséptica. No en vano, estas importantes propiedades son las que le han valido su nombre popular de Hierba de los tiñosos, haciendo sin duda referencia a su utilización terapéutica en las afecciones de la piel. Esta acción se ve reforzada por su capacidad de normalizar el índice de azúcar en la sangre, reforzando su acción contra el acné.<br /> Usos: Acné, Dermatosis, Eczema, Psoriasis, Trastornos de la piel.<br /> Partes utilizadas: Raíz. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Bardana",
+    "id" : "22",
+    "imagen" : "bardana1",
+    "genero" : "Compuestas"
+  },
+  {
+    "contenido" : "Francés: Belladone, bouton noir<br /> Inglés: Belladonna, deadly nightshade, black cherry.<br /> genero: Solanáceas.<br /><br /> Planta herbácea perenne, crece en terrenos calcáreos y umbríos ó los escombros. Es una planta común en Europa Central y Meridional, Norte de Africa y la zona occidental de Asia. Es de tallo erecto y ramificado, con hojas laterales y desiguales de color verde oscuro. Las flores son de color púrpura por el borde y más claro el resto. El fruto es una baya de dos celdas con numerosas semillas envueltas en una pulpa oscura que les hace muy atractivas pese a ser muy venenosas, pues contienen un alcaloide, la atropina, que, en muy pequeñas dosis se utiliza en medicina. La planta desprende un olor fétido si se presiona con los dedos.<br /> Propiedades: Es hipnótica, antiespasmódica, antidolorosa, antiemético y antiinflamatoria.<br /> Partes utilizadas: Frutos, Hojas. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Belladona ó Solano Mayor",
+    "id" : "23",
+    "imagen" : "belladona",
+    "genero" : "Solanáceas"
+  },
+  {
+    "contenido" : "Francés: Aubergine.<br /> Inglés: Egg-plant.<br /> genero: Solanáceas.<br /><br /> Planta anual, de hojas grandes y con aguijones, flores moradas y fruto largo, de color morado muy oscuro por fuera y blanco por dentro. Esta planta, originaria de la India, e introducida en el Sur de Europa, es muy popular en nuestros mercados, sobre todo en su variedad redonda-ovalada y de color morado oscuro. Existen diversas variedades desde la redonda y amarilla a la blanca o con franjas verdes y blancas.<br /> Ayuda a bajar el colesterol pues contiene emulsionantes que previenen la acumulación de grasas en el hígado y fomentan la producción de lecitina que regula el nivel de colesterol. Es adelgazante, siempre que no se cocine de manera excesiva. Su contenido en carbohidratos es muy bajo y es pobrísima en grasas. Es diurética: contiene mucha agua y estimula los riñones, los intestinos, el hígado y el páncreas. Regula la presión sanguínea: tiene propiedades beneficiosas para el corazón, ya que su alto contenido en potasio ayuda a normalizar la presión arterial. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Berenjena",
+    "id" : "24",
+    "imagen" : "berenjena1",
+    "genero" : "Solanáceas"
+  },
+  {
+    "contenido" : "Euskera: Brexua<br /> Francés: Cresson.<br /> Inglés: Water-cress.<br /> genero: Crucíferas.<br /><br /> Planta herbácea, con flores amarillas, se cultiva en los berrizales y es apreciada por sus partes verdes, comestibles.<br /> Indicaciones: Asma, Avitaminosis, Cólico biliar, Cólico nefrítico, Reumatismo, Tos, Trastornos menstruales.<br /> Propiedades: Diurética, Emenagoga, Vitamínica.<br /> Usos: Crudo, Maceración.<br /> Partes utilizadas: Hoja y Tallo. ",
+    "usos" : "» Asma » Avitaminosis » Cólico biliar » Cólico nefrítico » Reumatismo » Tos » Trastornos menstruales",
+    "titulo" : "Berro",
+    "id" : "25",
+    "imagen" : "berro",
+    "genero" : "Crucíferas"
+  },
+  {
+    "contenido" : "El boldo es un arbusto de hoja perenne originario de Chile cuyas hojas se emplean para combatir las afecciones del hígado. Su principio activo es un alcaloide llamado boldina que actúa como tónico amargo, estimulante de la vesícula biliar y ligeramente laxante. Por otro lado, su acción colerética ayuda a eliminar los cálculos biliares y permite ser utilizado en las afecciones del hígado y como hepatoprotector.<br /> Finalmente, se ha comprobado que la hoja del boldo aumenta la secreción de saliva, por lo que se recomienda en caso de personas con sequedad de boca. Todos los constituyentes presentes en la hoja del boldo se potencian entre ellos. Sin embargo, para respetar la integridad del aceite esencial y conseguir un resultado óptimo es necesario utilizar el polvo total de la hoja.<br /> Usos: Actúa como tónico amargo, Estimula la vesícula biliar, Sequedad de boca.<br /> Partes utilizadas: Hoja. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Boldo",
+    "id" : "26",
+    "imagen" : "boldo1",
+    "genero" : ""
+  },
+  {
+    "contenido" : "Euskera: Morroina<br /> Inglés: Borage.<br /> genero: Borragináceas.<br /><br /> Planta anual muy ramosa, de hojas largas y ovaladas, y flores azules, es una planta común en Europa central y Meridional. Es diurética y sudorífica.<br /> El gran interés suscitado en torno a esta planta durante los últimos años, en el campo de la cosmética interior, se debe al alto contenido de sus semillas en dos ácidos grasos poliinsaturados esenciales: los ácidos gammalinolénico y linoleíco. Su beneficiosa acción a nivel cutáneo permite luchar contra el desecamiento cutáneo y, por lo tanto, atenuar los signos del envejecimiento mediante la prevención de la formación de arrugas. Asimismo, su acción global en la piel se traduce en la mejora de dos parámetros: se produce un aumento del grado de suavidad y una mejora de su resistencia.<br /> Indicaciones: Forúnculos, Riñón, Tumores.<br /> Propiedades: Diurética, Emoliente, Sudorífica.<br /> Usos: Infusión, Decocción, Maceración.<br /> Usos cosméticos: Arrugas, Estrías, Piel seca, Prevención del envejecimiento de la piel. <br /> Partes utilizadas: Hoja y Flor. Aceite extraído de la semilla. ",
+    "usos" : "» Forúnculos » Riñón » Tumores",
+    "titulo" : "Borraja",
+    "id" : "27",
+    "imagen" : "borraja1",
+    "genero" : "Borragináceas"
+  },
+  {
+    "contenido" : "Francés: Bruyère.<br /> Inglés: Heather.<br /> genero: Ericáceas. Arbusto de hojas lineares, muy pequeñas y diuréticas, flores axilares, violetas ó rosadas, madera dura y raíces gruesas, el brezo está presente en los bosques, montes y acantilados de toda Europa. Sus flavonoides y taninos calman la inflamación dolorosa de la pared de la vejiga ligada a la infección urinaria. Su acción antiinflamatoria se revela de especial interés en caso de hipertrofia de la próstata. Además, debido a su efecto diurético, permite aumentar el volumen de la orina, algo necesario en el tratamiento de las infecciones del aparato urinario. Su utilización se revela interesante en el tratamiento de las crisis agudas o crónicas y en la prevención de la recaídas. Para conseguir un efecto más completo, puede asociarse al diente de león de propiedades depurativas.<br /> Usos: Infecciones urinarias: cistitis, colibacilosis. Inflamación del aparato urinario: uretritis, próstata.<br /> Partes utilizadas: Flor. Francés: Cacao.<br /> Inglés: Cocoa.<br /> genero: Esterculiáceas.<br /><br /> Voz náhuatl. El cacao es un árbol de hojas grandes, flores rojizas que nacen sobre el tronco o ramas viejas, de fruto abayado y semillas grandes y un poco comprimidas, originario de América del Sur - principalmente de los valles del Orinoco y del Amazonas. El aprovechamiento de las semillas se realiza en tres fases: fermentación, destinada a separar la pulpa; desecación, al sol o artificial, y tratamiento con arcilla ferruginosa.<br /> De las semillas fermentadas, tostadas y trituradas de la Theobroma Cacao, se extraen materias grasas (manteca de cacao) y un polvo que se utiliza para fabricar el chocolate. Con la pulpa se preparan infusiones; la almendra, una vez tostada y molida, se convierte en el polvo comestible que se conoce comúnmente con el nombre de cacao, y el aceite extraído ó manteca de cacao se utiliza en preparados cosméticos, en barras y reparadores labiales por sus propiedades hidratantes.<br /> El cacao es, junto con el café y el té, un alimento excitante debido a la teobromina que contiene, el cual estimula el sistema nervioso central, dilata los vasos sanguíneos, acelera el ritmo cardíaco, disminuye la sensación de fatiga y actúa como diurético. Su consumo puro no es muy habitual, aunque sí en forma de chocolate que es una mezcla de cacao en polvo, manteca de cacao, azúcar y otros ingredientes, por lo que sus propiedades son similares a las del cacao siempre que contenga más del 50% de éste. El cacao, Alimento de los dioses para los Aztecas, es más beneficioso cuanto mayor sea su grado de pureza. El chocolate posee propiedades antioxidantes tanto en su ingesta como en su aplicación sobre la piel. En estado puro contiene fósforo, potasio, magnesio, proteínas, hidratos de carbono, vitamina B1 y ácido fólico.<br /> Historia:<br /> Conocido desde antiguo por los indígenas de América, el cultivo del cacao se extendió a partir del Siglo XVI a otras regiones tropicales, principalmente del Africa occidental. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Cacao",
+    "id" : "28",
+    "imagen" : "cacao2",
+    "genero" : "Esterculiáceas"
+  },
+  {
+    "contenido" : "Francés\/Inglés: Cactus.<br /> genero: Cactáceas.<br /><br /> Cacto ó cactus es el nombre genérico que agrupa casi 2000 especies de plantas espinosas que habitan en las regiones cálidas y tropicales, principalmente en América. Esta planta es capaz de limitar al mínimo la evaporación del agua gracias a su fotosíntesis, que se produce de un modo particular. Asombrosamente resistente al calor y al sol intenso conserva permanentemente en sus carnosos tallos, ricos en mucilagos, una importante reserva hídrica. Son estas propiedades hidroreguladoras las que le convierten en un apreciado activo para la cosmética. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Cactus",
+    "id" : "29",
+    "imagen" : "cactus",
+    "genero" : "Cactáceas"
+  },
+  {
+    "contenido" : "Euskera: Ilena<br /> Otros nombres: Maravilla.<br /> Francés: Souci.<br /> Inglés: Marigold.<br /> genero: Compuestas.<br /><br /> Planta herbácea anual, de 30 a 80 cm. de altura, crece en viñedos y campos de cultivo. Originaria del Sur de Europa meridional y del Oriente, se cultiva en climas fríos y templados desde la Edad Media como planta medicinal y ornamental.<br /> Historia:<br /> Las flores amarillas y anaranjadas de esta planta se empleaban ya en el antiguo Egipto. La palabra caléndula viene de las calendas del latin que designaban el primer día del mes. Ello se debe a que la caléndula florece todos los meses del año, incluso los de invierno si no son muy fríos. Los Romanos sin embargo, la llamaban Solsequium, que quiere decir que sigue al sol, acción que realizan las flores de caléndula al igual que los girasoles. La caléndula fué utilizada como planta medicinal en el siglo XII por Hildegard von Bingen. Gracias a su acción positiva sobre la piel era, y es, apreciada como remedio en lesiones y heridas. Diversas investigaciones han demostrado que la caléndula favorece la formación de tejido de granulación y que tiene acciones antiflogísticas y antimicrobianas.<br /> En la actualidad es reconocida como una de las mejores plantas para tratar la piel. Usada externamente, es de ayuda en casos tales como quemaduras, cortaduras, infecciones y picaduras de insectos a causa de sus propiedades antiinflamatorias y antisépticas. La flor de la caléndula tiene una acción antimicrobiana.<br /> Indicaciones: Contusiones, Gota, Trastornos menstruales, Ulceras<br /> Propiedades: Desinflamatoria, Emenagoga<br /> Usos: Infusión<br /> Partes utilizadas: Flor ",
+    "usos" : "» Contusiones » Gota » Trastornos menstruales » Ulceras",
+    "titulo" : "Caléndula Silvestre",
+    "id" : "30",
+    "imagen" : "calendula",
+    "genero" : "Compuestas"
+  },
+  {
+    "contenido" : "Este pequeño arbusto es una de las plantas más consumidas del mundo, por cuyas propiedades medicinales están interesados los más eminentes científicos. Para beneficiarse de sus excelentes propiedades, hay que conservar las hojas jóvenes y evitar su fermentación.<br /> Usos y Propiedades:<br /> Está indicado en los regímenes de control de peso por ejercer una doble función. Por una parte, estimula y prolonga la vida de la adrenalina, cuya acción en el organismo consiste en sacar las grasas de las células y quemarlas. Por otra parte, disminuye la asimilación de ciertos nutrientes, principalmente, azúcares y grasas, a través del intestino. Numerosos estudios han demostrado que la toma regular de té verde disminuye el nivel de lípidos que circulan en la sangre y en especial, del colesterol. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Camilina o Camelia",
+    "id" : "31",
+    "imagen" : "camelia",
+    "genero" : ""
+  },
+  {
+    "contenido" : "Francés: Cannelle.<br /> Inglés: Cinnamon.<br /> Corteza de las ramas del canelo, de color rojo amarillento, muy agradable y aromática. El canelo es un árbol de 7 a 8 metros de altura, de flores blancas y hojas parecidas a las del laurel, originario de la India, Ceilán y China.<br /> Es un buen estimulante del apetito, facilita la recuperación tras una convalescencia y protege de virus y bacterias.<br /> Propiedades: Alivia las dolencias gástricas, estimula el sistema glandular y es astringente. En polvo o en rama, se usa sobretodo en repostería. Su uso más conocido es el de suave afrodisíaco.<br /> Partes utilizadas: Corteza. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Canela",
+    "id" : "32",
+    "imagen" : "canela",
+    "genero" : ""
+  },
+  {
+    "contenido" : "Francés: Chanvre.<br /> Inglés: Hemp.<br /> genero: Cannabáceas.<br /><br /> Planta de hojas palmeadas , cultivadas por su tallo, que proporciona una excelente fibra textil, y por sus semillas.<br /> El aceite de cáñamo se obtiene por primera presión en frío de los cogollos de la planta Cannabis Sativa, y es el más rico en ácidos grasos esenciales, con un alto contenido en vitamina E. Los productos cosméticos que incluyen esta planta en su composición cuentan con propiedades hidratantes, reafirmantes y regeneradoras de la piel. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Cáñamo",
+    "id" : "33",
+    "imagen" : "canamo",
+    "genero" : "Cannabáceas"
+  },
+  {
+    "contenido" : "Francés: Cardamome.<br /> Inglés: Cardamom.<br /> genero: Zingiberáceas.<br /><br /> El cardamomo es una planta de rizoma tuberoso y hojas grandes, originaria de la India y Java. Sus semillas, contenidas en un fruto de color negro, tienen un sabor picante. Contienen un aceite esencial que se utiliza como condimento y en perfumería. Muy aromáticas, se utilizan también para darle aroma al alajú.<br /> Usos y Propiedades:<br /> Su mayor virtud consiste en que es capaz de abrir el apetito, virtud que acompaña con un buen sabor. En cosmetología, el aceite esencial de cardamomo se utiliza por sus propiedades aromáticas y por su acción tonificante y fortificante. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Cardamomo",
+    "id" : "34",
+    "imagen" : "cardamomo",
+    "genero" : "Zingiberáceas"
+  },
+  {
+    "contenido" : "Otros nombres: Cardo mariano, Cardo borriquero.<br /> Francés: Chardon.<br /> Inglés: Thistle.<br /> genero: Compuestas.<br /><br /> Planta robusta de tallos derechos, hojas abrazadoras, espinosas, y flores purpúreas en cabezuelas terminales. Crece en caminos y terrenos sin cultivar de la región mediterránea.<br /> La utilización tradicional del fruto del Cardo María se debe a su contenido en un principio activo llamado silimarina y que ha demostrado ser muy útil en los trastornos hepáticos.<br /> La silimarina ejerce una acción directa sobre las células del hígado, regenerándolas y combatiendo las sustancias hepatotóxicas (alcohol y otros tóxicos de origen alimentario) por lo que se revela como un excelente hepatoprotector. Se utiliza también en caso de insuficiencia hepática o cálculos biliares.<br /> Usos: Util en trastornos hepáticos. Secreción de la vesícula biliar. Cálculos biliares.<br /> Partes utilizadas: Fruto. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Cardo María",
+    "id" : "35",
+    "imagen" : "cardomaria",
+    "genero" : "Compuestas"
+  },
+  {
+    "contenido" : "Euskera: Benito Deunaren Belarra.<br /> Indicaciones: Diarrea, Náuseas, Vómitos, Inflamación encías, Dolor de muelas, Atonía estomacal.<br /> Propiedades: Antiséptica, Astringente, Desinflamatoria, Digestiva, Febrífuga.<br /> Usos: Decocción.<br /> Partes utilizadas: Raiz, Flor, Hoja, Tallo. ",
+    "usos" : "» ",
+    "titulo" : "Cariofilada",
+    "id" : "36",
+    "imagen" : "cariofilada",
+    "genero" : ""
+  },
+  {
+    "contenido" : "La cáscara sagrada pertenece a la familia de las Rhamnáceas, cuya corteza es muy estimada por sus propiedades tónicas y laxantes. Su modo de acción se debe a su importante contenido en heterósidos antracénicos, gracias a los cuales se consigue estimular el tránsito y favorecer las secreciones intestinales. Su importante efecto laxante es ideal para el tratamiento del estreñimiento ocasional, es decir, aquel que se presenta de forma puntual debido a una causa desencadenante como un cambio en los hábitos alimenticios, alteraciones emocionales, medicación, viajes, etc.<br /> Puesto que se trata de un laxante estimulante del intestino, no debe administrarse a niños y, en caso de adultos, el tratamiento no debe exceder de 10 días.<br /> Usos: Estreñimiento ocasional. Situaciones que requieran una evacuación fácil: operaciones recto-anales, fisuras, hemorroides...<br /> Partes utilizadas: Corteza ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Cáscara Sagrada",
+    "id" : "37",
+    "imagen" : "cascarasagrada",
+    "genero" : ""
+  },
+  {
+    "contenido" : "Francés: Marronnier.<br /> Inglés: Horse-chestnut.<br /> genero: Fagáceas.<br /><br /> Arbol hipocastanáceo, de fruto muy parecido al del castaño común y cuya corteza y semilla se emplean en medicina como febrifugo. Pese a recibir el nombre de castaño de Indias, esta planta es originaria de Asia Menor. En medicina tradicional, se aprovechan dos partes del Castaño de Indias: la semilla y la corteza. Ambas partes activas poseen una composición y un modo de acción diferentes. La corteza, contrariamente a la semilla, no contiene saponósidos, sino taninos y, sobre todo, derivados cumarinicos siendo el aesculósido el principal. Estos derivados son los responsables de su importante acción vitamínica P. Se sabe que esta acción vitamínica P, es triple pues se manifiesta mediante un aumento de la resistencia capilar, una disminución de la permeabilidad capilar y una acción antiinflamatoria y antiedematosa.<br /> La corteza de este árbol es muy apreciada en fitoterapia pues es de gran eficacia en el tratamiento de los problemas de circulación.<br /> Usos: Absorción de edemas (piernas hinchadas), Varices, Insuficiencia venosa, Hemorroides.<br /> Partes utilizadas: Corteza ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Castaño de Indias",
+    "id" : "38",
+    "imagen" : "castanoindias",
+    "genero" : "Fagáceas"
+  },
+  {
+    "contenido" : "Euskera: Tipula<br /> Francés: Oignon.<br /> Inglés: Onion.<br /> genero: Liliáceas.<br /><br /> Hortaliza de bulbo comestible, presenta numerosas flores blanquecinas en umbela esférica, sobre un tallo robusto. Originaria del occidente asiático, se cultiva por toda Europa. De poderosa acción sobre las sustancias tóxicas debido a su rico contenido de silicio, se le atribuyen propiedades que pueden atenuar los riesgos del cáncer. De ahí su importancia para tratar enfermedades renales.<br /> Indicaciones: Asma, Diabetes, Dolor de cabeza, Hidropesía, Hipertensión, Reumatismo<br /> Propiedades: Calmante, Hipnótica<br /> Usos: Cruda, Decocción<br /> Partes utilizadas: Bulbo. ",
+    "usos" : "» Asma » Diabetes » Dolor de cabeza » Hidropesía » Hipertensión » Reumatismo",
+    "titulo" : "Cebolla",
+    "id" : "39",
+    "imagen" : "cebolla",
+    "genero" : "Liliáceas"
+  },
+  {
+    "contenido" : "Euskera: Astomakila.<br /> Francés: Centaurée.<br /> Inglés: Centaury.<br /> genero: Compuestas.<br /><br /> Planta herbácea, de tallo ramoso, con hojas coriáceas y flores de color pardo purpúreo.<br /> Indicaciones: Diabetes<br /> Propiedades: Hipoglucemiante<br /> Usos: Decocción<br /> Partes utilizadas: Tallo, Flor y Hoja ",
+    "usos" : "» Diabetes",
+    "titulo" : "Centaura Aspera",
+    "id" : "40",
+    "imagen" : "centaureaasp",
+    "genero" : "Compuestas"
+  },
+  {
+    "contenido" : "Otros nombres: Gotu Kola, Indian Pennywort, Marsh penny, Water pennywort. Planta rastrera, trepadora, originaria de la India y del Sudeste Asiático, conocida también como Hierba del tigre debido a que este animal se frota con ella para curar sus heridas, crece en los terrenos pantanosos.<br /> En la farmacopea de la India, la centella se considera como una planta casi mágica. En Asia viene empleándose desde hace milenios para el tratamiento de las enfermedades de la piel como el eczema y la psoriasis. Además se ha utilizado tradicionalmente para calmar los picores y las quemaduras. La investigación cosmetológica descubrió las propiedades cicatrizantes y relajantes de la centella. El análisis de su composición revela la presencia de alcaloides y saponinas, pero principalmente el asaticósido, el principio activo más interesante en cosmética. Por su actividad regenerante se emplea también en el tratamiento de las estrías, las varices y la celulitis por su acción sobre los vasos sanguíneos.<br /> Propiedades: Diurética, febrífuga, rejuvenecedora. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Centella Asiática",
+    "id" : "41",
+    "imagen" : "centella",
+    "genero" : ""
+  },
+  {
+    "contenido" : "Francés: Coriandre.<br /> Inglés: Coriander.<br /> genero: Umbelíferas.<br /><br /> El cilantro es una planta herbácea originaria del Norte de Africa, de tallo glabro y brillante, de 30 a 60 cm. de altura, flores rojizas y semilla elipsoidal aromática, usada como estomacal ó como condimento. Sus nombres griegos, koriandron y korion, se deben al olor penetrante y fétido, similar al de la chinche (llamado koris), que se desprende de la planta fresca cuando se la toca.<br /> Los frutos, en cambio, tienen un olor anisado y desde hace siglos son considerados como especias. Plinio en sus escritos, y los Romanos reconocieron sus propiedades medicinales contra los problemas digestivos. Antiguamente, también se utilizaba por su efecto euforizante y lo incorporaban al vino para hacerlo más espiritoso. Hoy en día, se utiliza para darle sabor a ciertos licores.<br /> Sus propiedades aromáticas y tonificantes se utilizan en cosmetología. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Cilantro",
+    "id" : "42",
+    "imagen" : "cilantro",
+    "genero" : "Umbelíferas"
+  },
+  {
+    "contenido" : "Inglés: Black Cohosh, Black Snakeroot, Squawroot, Bugwort, Rattleroot, Rattleweed, Richweed. La cimicifuga racemosa es originaria de Canadá y de la costa atlántica de los Estados Unidos. Crece silvestre en bosques con suelos ricos en humus y en laderas con poca vegetación en zonas templadas. Planta herbácea perenne, perteneciente a la famila de las Ranunculáces, mide entre 1 y 3 metros. Tiene rizoma oscuro y grueso, tallos glabros provistos de surcos, hojas grandes alternas, compuestas por 2 a 5 foliolos lobulados y dentados.<br /> Historia: <br /> La denominación genérica proviene del latin cimisis y fugio que significa insectos en fuga, porque se creía que su aroma repelía los insectos. Fué descrita en primera instancia por el botánico Plukener en 1696 y posteriormente, en el Siglo XVIII por Limneo. Los nativos norteamericanos la empleaban con frecuencia para tratar las irregularidades menstruales y facilitar el parto.<br /> Indicaciones: Menopausia, Trastornos menstruales<br /> Propiedades: Antihipertensiva, sedante, febrífuga y antiinflamatoria de procesos reumáticos. ",
+    "usos" : "» Menopausia » Trastornos menstruales",
+    "titulo" : "Cimicifuga Racemosa",
+    "id" : "43",
+    "imagen" : "cimicifuga",
+    "genero" : ""
+  },
+  {
+    "contenido" : "Francés: Ciprès.<br /> Inglés: Cypress-tree.<br /> genero: Cupresáceas.<br /><br /> Planta arbórea de tronco recto, ramas erguidas y copa fusiforme y alargada, con hojas pequeñas, perennes, de color verde oscuro, el ciprés es originario de la región mediterránea.<br /> Es una de las plantas medicinales más antiguamente conocidas. Se la menciona en un escrito asirio del Siglo XV A.C., así como en numerosas farmacopeas antiguas. El ciprés contiene un aceite esencial muy aromático con el que los romanos elaboraban perfumes. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Ciprés",
+    "id" : "44",
+    "imagen" : "cipres",
+    "genero" : "Cupresáceas"
+  },
+  {
+    "contenido" : "Otros nombres: Equiseto Menor.<br /> Francés: Prèle.<br /> Euskera: Galkidea<br /> Francés: Pissenlit.<br /> Inglés: Dandelion.<br /> genero: Compuestas.<br /><br /> Hierba de flores amarillas y semilla menuda con vilano abundante y blanquecino. El Diente de León, llamado así por las hojas recortadas que posee, es una planta vivaz que crece en todas las regiones del mundo. En algunos lugares, se consumen sus hojas en ensaladas. Además, es de la misma familia de la achicoria por lo que de su raíz torrefacta, se obtiene un excelente sucedáneo del café.<br /> Usos y propiedades:<br /> Es diurética, depurativa, aperitiva, antiescorbútica, combate la bilis y es laxante. El diente de león estimula la secreción de los órganos de la digestión, por lo que se utiliza en caso de hipo-acidez gástrica y en los trastornos digestivos en general. También es beneficiosa para los cálculos renales por su acción laxante y diurética. Gracias a esta acción permite limpiar y eliminar las toxinas acumuladas en el organismo, por lo que se recomienda hacer una cura de diente de león en cada cambio de estación y en caso de excesos alimentarios.<br /> Indicaciones: Celulitis, Dermatosis, Hígado, Reumatismo, Vesícula biliar.<br /> Propiedades: Depurativa, Diurética, Hepática.<br /> Usos: Crudo, Decocción, Infusión.<br /> Partes utilizadas: Flor, Hoja, Raíz. genero: Boragináceas.<br /><br /> La vivorera morada, de flores rosas, más tarde azules, es común en campos no cultivados, céspedes y cunetas de gran parte de Europa. <br /> El aceite de echium es muy rico en aceites grasos esenciales, ácidos Omega 3 y Omega 6. Gracias a su particular y rica composición, es un reestructurante celular que reactiva la síntesis natural de lípidos luchando eficazmente contra la sequedad cutánea, además de nutrir la piel en profundidad y ejercer un interesante efecto anti-inflamatorio. ",
+    "usos" : "» Celulitis » Dermatosis » Hígado » Reumatismo » Vesícula biliar",
+    "titulo" : "Echium",
+    "id" : "45",
+    "imagen" : "echium1",
+    "genero" : "Boragináceas"
+  },
+  {
+    "contenido" : "El eleuterococo, conocido también como arbusto del diablo por las espinas de sus ramas, originario de las estepas de Siberia, es una planta que pertenece a la misma familia que el Ginseng. Su raiz posee numerosas propiedades: acción estimulante del sistema nervioso central, incrementa los mecanismos de defensa del organismo, tonifica y estimula físicamente e intelectualmente.<br /> Entre las numerosas sustancias activas que se han aislado, la principal parece ser el eleuterósido. Además de éste, el eleuterococo encierra vitaminas y aminoácidos, entre otros principios. Su importancia en fitoterapia se ha visto aumentado después de los primeros experimentos efectuados en la Unión Soviética con deportistas de alto nivel. El efecto antifatiga de la planta no es sólo físico, sino que además puede aumentar sensiblemente la capacidad intelectual. Actúa sobre el organismo favoreciendo su adaptación a situaciones extremas.<br /> Usos: Preparación de exámenes y pruebas deportivas. Convalecencia, Estrés, Fatiga, Astenia.<br /> Partes utilizadas: Raiz ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Eleuterococo",
+    "id" : "46",
+    "imagen" : "eleuterococo",
+    "genero" : ""
+  },
+{
+    "contenido" : "Inglés: Stevia<br />\nEuskera: Nahi baduzu<br />\nFrancés: Stevia<br />\nOtros nombres: Planta Dulce<br /><br />\nOriginaria del Paraguay, la Stevia se cultiva en todo el mundo y se utiliza por su poder edulcorante y por sus propiedades medicinales.<br />De todas las propiedades medicinales que pueden enumerarse de la estevia destacan los efectos que tiene para la calidad de vida de los diabéticos. Buena parte de los afectados por esta enfermedad podrían beneficiarse de las propiedades reguladoras de los niveles de azúcar en sangre que aporta la ingesta de hojas tiernas de la estevia. <br /><br />Los estudios médicos constatan que el principio activo de la planta induce a las células beta del páncreas a producir por ellas mismas importantes cantidades de insulina, lo que contribuye a reducir la glucosa en sangre, que es la causa de la diabetes mellitus 2.<br /><br /><br />Beneficios para el corazón: protege el corazón debido a que posee una acción cardiotónica la cual actúa regulando los latidos del mismo. Es además un excelente vasodilatador y tiene la cualidad de bajar la presión arterial.<br />Sus cualidades bactericidas: está considerada como un bactericida de amplio espectro, es muy eficaz para combatir bacterias en la mucosa bucal y también del tipo Candida Albicans, que provocan vaginitis en forma recurrente. También actúa sobre la Escherichia Colis y estafilococos aureus.<br />Cuida la piel: la Stevia es usada en Estados Unidos como loción, la cual combate arrugas, líneas de expresión y ayuda a acelerar los procesos de cicatrización en la piel.<br />Tiene la cualidad también de mejorar lesiones causadas por el acné y de eliminar manchas.<br />Propiedades en el organismo: estimula el metabolismo para activar la absorción de grasas y de esa manera ayuda a bajar de peso, también evita la acidez estomacal y favorece la digestión.<br /><br />Usos: Infusión<br />Partes utilizadas: Hoja<br />",
+    "usos" : "» Diabetes",
+    "titulo" : "Estevia",
+    "id" : "169",
+    "imagen" : "stevia1",
+    "genero" : "Asteráceas"
+  },
+  {
+    "contenido" : "Euskera: Ipurua<br /> Francés: Genévrier.<br /> Inglés: Juniper.<br /> genero: Cupresáceas.<br /><br /> Arbusto de hojas espinosas, flores de color pardo rojizo y fruto en bayas de color negro azulado que poseen propiedades diuréticas. La madera es rojiza, fuerte y olorosa. El enebro crece en bosques claros, brezales y páramos de toda Europa. El enebro tiene múltiples usos en medicina natural.<br /> Indicaciones: Dolor de cabeza, Hidropesía, Reumatismo, Trastornos menstruales, enfermedades renales.<br /> Propiedades: Calmante, Diurética, Emenagoga, Sudorífica.<br /> Usos: Infusión, Decocción.<br /> Partes utilizadas: Fruto. ",
+    "usos" : "» Dolor de cabeza » Hidropesía » Reumatismo » Trastornos menstruales » enfermedades renales",
+    "titulo" : "Enebro",
+    "id" : "47",
+    "imagen" : "enebro1",
+    "genero" : "Cupresáceas"
+  },
+  {
+    "contenido" : "Francés: Echinacée,<br />Inglés: Purple Cone-flower, Cone Flower, Black Sampson, Niggerhead. Es una planta originaria de Norteamérica cuya raiz ha sido muy utilizada en medicina tradicional por sus propiedades. La echinácea pertenece al conjunto de plantas con propiedades inmunoestimulantes. No en vano, es una de las plantas que gozan de mayor reputación en los países germánicos, entre ellos Alemania donde su consumo es muy habitual.<br /> Los últimos estudios realizados han puesto de manifiesto su acción estimulante del sistema inmunológico. Debido a su capacidad de estimular la inmunidad, la equinácea está recomendada en la prevención (en pacientes de riesgo) o tratamiento (en caso de que los síntomas ya se hayan manifestado) de los procesos infecciosos del aparato respiratorio (fundamentalmente catarros y gripe).<br /> Usos: Prevención y tratamiento de catarros, gripe y otros procesos infecciosos del aparato respiratorio.<br /> Partes utilizadas: Raiz. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Equinacea",
+    "id" : "48",
+    "imagen" : "equinacea",
+    "genero" : ""
+  },
+  {
+    "contenido" : "Inglés: Dog-rose.<br /> genero: Rosáceas.<br /><br /> El escaramujo, especie de rosal silvestre, es un arbusto espinoso de hojas pinnadas, de flores blancas o rosadas, inodoras, y fruto globular, de color escarlata, llamado popularmente escaramujo. Crece en matorrales, setos, bordes de camino, bosques de toda Europa. Florece desde comienzos de la primavera hasta finales del otoño.<br /> El escaramujo fué incluído desde hace siglos en la farmacopea popular. Sus frutas tienen propiedades tonificantes y un alto contenido en Vitamina C.<br /> Partes utilizadas: Fruto. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Escaramujo",
+    "id" : "49",
+    "imagen" : "escaramujo",
+    "genero" : "Rosáceas"
+  },
+  {
+    "contenido" : "Euskera: Elorri zuria<br /> Otros nombres: Majuelo.<br /> Francés: Aubépine.<br /> Inglés: Hawthorn.<br /> genero: Rosáceas.<br /><br /> Planta arbórea de ramas espinosas y flores blancas y olorosas, se encuentra en bosques y setos de toda Europa.<br /> Durante el Renacimiento se descubrió su efecto sobre el corazón, de ahí que se la llame la Planta del corazón. Es sólo a partir del siglo XIX cuando las flores de espino se utilizan por su acción relajante.<br /> Ayuda a dormir, es sedante, regula la circulación y relaja el corazón. Con las flores, se puede hacer una tisana y tomarla con limón y miel.<br /> Indicaciones: Fallos cardíacos, Hipertensión, Trastornos circulatorios.<br /> Propiedades: Activante circulatorio, Antiespasmódica, Sedante.<br /> Usos: Infusión.<br /> Partes utilizadas: Flor. ",
+    "usos" : "» Fallos cardíacos » Hipertensión » Trastornos circulatorios",
+    "titulo" : "Espino Albar",
+    "id" : "50",
+    "imagen" : "espino",
+    "genero" : "Rosáceas"
+  },
+  {
+    "contenido" : "genero: Eleagnáceas.<br /><br /> Es una planta arbórea de ramas espinosas y hojas lanceoladas, de color gris y flores de color herrumbre. Esta planta crece al borde del mar y en las orillas de los ríos de las zonas templadas de clima frío pero soleadas. Se utilizan prácticamente todas sus partes: bayas, semillas, hojas y corteza de las que se extraen aceite, zumo y extracto. Se utiliza en todo tipo de productos farmacéuticos, cosméticos, tisanas, mermeladas, bebidas o licores. <br /> Gracias a su contenido en vitaminas y fitoesteroles, tiene propiedades regenerantes y anti-inflamatorias. El aceite extraído de sus frutos, ricos en ácidos grasos esenciales, se ha utilizaco tradicionalmente en caso de heridas, quemaduras e irritaciones. Hidrata, suaviza y relaja la piel. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Espino Amarillo ó Falso",
+    "id" : "51",
+    "imagen" : "espinofalso",
+    "genero" : "Eleagnáceas"
+  },
+  {
+    "contenido" : "Euskera: Izpilikua<br /> Otros nombres: Cantueso, lavanda.<br /> Francés: Lavande.<br /> Inglés: Lavender.<br /> genero: Labiadas.<br /><br /> El espliego es una planta vivaz , muy aromática, de hojas lanceoladas ó lineares de color verde, y flores azules, que crece en los terrenos secos y rocosos de la región mediterránea, de flores azules de las que se extrae una esencia utilizada en perfumería.<br /> Indicaciones: Cólico, Flatulencias, Heridas, Indigestión, Reumatismo.<br /> Propiedades: Antiespasmódica, Antiséptica, Carminativa, Digestiva, Tonificante.<br /> Usos: Infusión, Maceración.<br /> Partes utilizadas: Flor. ",
+    "usos" : "» Cólico » Flatulencias » Heridas » Indigestión » Reumatismo",
+    "titulo" : "Espliego",
+    "id" : "52",
+    "imagen" : "espliego",
+    "genero" : "Labiadas"
+  },
+  {
+    "contenido" : "Euskera: Eukalitoa<br /> Francés\/Inglés: Eucalyptus.<br /> genero: Mirtáceas.<br /><br /> Arbol de gran tamaño, originario de Australia, crece preferentemente en las regiones cálidas. Sus hojas son muy olorosas.<br /> Indicaciones: Aparato respiratorio, Gastritis, Resfriados.<br /> Propiedades:Antiséptica, Expectorante.<br /> Usos: Infusión, Vahos.<br /> Partes utilizadas: Hoja. ",
+    "usos" : "» Aparato respiratorio » Gastritis » Resfriados",
+    "titulo" : "Eucalipto",
+    "id" : "53",
+    "imagen" : "eucalipto",
+    "genero" : "Mirtáceas"
+  },
+  {
+    "contenido" : "La frángula abunda en los bosques húmedos y montes bajos de Europa. La corteza, una vez recolectada y desecada, debe conservarse un año como mínimo para que desaparezcan las antronas libres, presentes en la planta fresca y que causan irritaciones. Al cabo de un año, estas sustancias desaparecen, pudiéndose utilizar. Sus virtudes terapéuticas se conocen desde el Siglo XVI en que se descubrieron sus propiedades colagogas, es decir, su propiedad de facilitar la secreción de la bilis.<br /> Usos y propiedades:<br /> La corteza de frángula contiene gluco-frangulinas que aumentan la hidratación de lñas deposiciones y estimulan el peristaltismo intestinal, ejerciendo un efecto laxante estimulante. Al igual que el sen, la frángula no debe utilizarse en niños, y el tratamiento de los adultos no deberá exceder de diez días, utilizándose sólo en caso de estreñimiento ocasional. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Frangula",
+    "id" : "54",
+    "imagen" : "frangula1",
+    "genero" : ""
+  },
+  {
+    "contenido" : "Euskera: Lizarra<br /> Francés: Frêne.<br /> Inglés: Ash-tree.<br /> genero: Oleáceas.<br /><br /> Es un árbol de madera clara, flexible y resistente, de corteza y hojas febrífugas y purgantes, que crece en los bosques templados. En fitoterapia se utiliza un tipo de fresno llamado fresno alto, pues es el más alargado de Europa. Según la mitología escandinava, el fresno, con su gran tamaño, es el sostén del mundo. Las numerosas sustancias antiinflamatorias, drenantes y antioxidantes presentes en sus hojas se aprovechan en la medicina tradicional desde hace siglos. En la Edad Media, Santa Hildegarda utilizaba las hojas del fresno en el tratamiento de la gota. En cosmetología, se utiliza el manitol, una sustancia activa presente en el extracto de fresno, por sus propiedades hidratantes.<br /> Indicaciones: Artritismo.<br /> Propiedades: Antiartrítica, Laxante.<br /> Usos: Infusión.<br /> Partes utilizadas: Hoja, Fruto.<br /> Un preparado a base de hojas de fresno ayuda a aliviar la retención de orina. ",
+    "usos" : "» Artritismo",
+    "titulo" : "Fresno",
+    "id" : "55",
+    "imagen" : "fresno",
+    "genero" : "Oleáceas"
+  },
+  {
+    "contenido" : "El fucus es un alga parda, abundante en las costas rocosas de los mares templados y fríos del hemisferio norte. Constituye un verdadero concentrado de sales minerales, oligoelementos, vitaminas y yodo.<br /> Usos y propiedades:<br /> Este alga resulta de especial interés en los regímenes de adelgazamiento demasiado estrictos, ya que procura una sensación de saciedad gracias a su riqueza en mucílagos no asimilables. Por otro lado, es extremadamente rico en oligoelementos así como en vitaminas, de forma que ayuda a cubrir las necesidades esenciales del organismo durante los regímenes de adelgazamiento. Además, su contenido en yodo estimula la gándula tiroides, actuando activamente sobre el metabolismo de los lípidos. Por último, la presencia de fibras vegetales mejora el tránsito intestinal.<br /> Usos: Dietas de control de peso (obesidad, celulitis), Corta-hambre, Estreñimiento, Fatiga, Astenia.<br /> Partes utilizadas: Tallo. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Fucus",
+    "id" : "56",
+    "imagen" : "fucus",
+    "genero" : ""
+  },
+  {
+    "contenido" : "Euskera: Negakina<br /> genero: Papaveráceas.<br /><br /> Hierba de flores purpúreas, cuyo jugo, de sabor amargo, se usa en medicina. Según Dioscórides, su nombre procede del latin fumus (humo), pues su jugo provoca un lacrimeo similar al producido por el humo. En la Antigüedad existía la creencia de que no nacía a partir de semillas sino del humo proveniente del interior de la tierra. Los antiguos hechicheros la quemaban para ahuyentar los malos espíritus.<br /> Usos y propiedades:<br /> La fumaria debe especialmente su actividad a los alcaloides de interesantes propiedades sobre la vesícula biliar. Es la planta anfocolerética por excelencia. Garantiza un funcionamiento armonioso de la vesícula actuando tanto sobre la formación de la bilis como sobre su eliminación. Con ello, contribuye a mejorar la digestión y evitar la formación de cálculos biliares. Es beneficiosa en los trastornos intestinales crónicos de origen biliar como determinadas formas de estreñimiento. Es eficaz contra las náuseas y migrañas debidas a un mal funcionamiento hepático. Calma los espasmos intestinales.<br /> Indicaciones: Astenia, Vesícula biliar.<br /> Propiedades: Depurativa, Tonificante.<br /> Usos: Infusión.<br /> Partes utilizadas: Flor. La garcinia cambogia es un arbusto de la India y del sudeste asiático que también recibe el nombre de guttier. En Europa se conoce desde hace siglos por sus propiedades medicinales.<br /> La pulpa de su fruto y su corteza se utilizan en cosmetología. La garcinia cambogia ha sido considerada la planta remodelante por excelencia dado que permite reducir la acumulación de grasas, pero sobre todo porque activa su eliminación gracias a su riqueza en ácido hidroxicítrico (A.H.C.) por lo que se utiliza sobre todo, en el marco del control de peso. ",
+    "usos" : "» Astenia » Vesícula biliar",
+    "titulo" : "Garcinia Cambogia",
+    "id" : "57",
+    "imagen" : "garcinia",
+    "genero" : "Papaveráceas"
+  },
+  {
+    "contenido" : "Euskera: Otso Mahatsa<br /> genero: Ericáceas.<br /><br /> La gayuba ó manzanilla de pastor, es un arbusto rastrero de hojas ovales, persistentes, coriáceas, de flores blancas o sonrosadas y fruto en drupa roja. El cocimiento de sus hojas y frutos se suele emplear como diurético.<br /> Descripción y propiedades:<br /> La gayuba crece en bosques y brezales de toda Europa, América y Asia, formando pequeños matorrales. Su nombre latino significa uva de oso, en referencia a la predilección de estos animales por sus frutos, de textura y sabor desagradables para el hombre. Sus hojas pequeñas, muy verdes y perennes, son muy apreciadas por sus propiedades terapéuticas, pues contienen una sustancia denominada arbutósido, de notables propiedades antibacterianas, en especial contra las infecciones de las vías urinarias. Además, la gayuba es una fuente importante de taninos de propiedades anti-inflamatorias y diuréticas.<br /> Indicaciones: Cistitis, Vejiga.<br /> Propiedades: Antiséptica, Bactericida.<br /> Usos: Decocción.<br /> Partes utilizadas: Hoja, Fruto. ",
+    "usos" : "» Cistitis » Vejiga",
+    "titulo" : "Gayuba",
+    "id" : "58",
+    "imagen" : "gayuba",
+    "genero" : "Ericáceas"
+  },
+  {
+    "contenido" : "Euskera: Errosta<br /> genero: Gencianáceas.<br /><br /> Planta vivaz, de flores gamopétalas, amarillas, azules o violetas según las especies, crece en las pendientes herbosas y rocosas de los macizos montañosos. La genciana de flores amarillas proporciona una raíz amarga que se usa en la composición de algunos aperitivos. <br /> Utilizada desde la Antigüedad por su acción benéfica, los Griegos utilizaron como antídoto una sustancia amarga extraída de su raíz y de su tallo, que actualmente se utiliza en la elaboración de digestivos y aperitivos.<br /> Indicaciones: Falta de apetito, Indigestión.<br /> Propiedades: Aperitiva, Digestiva, Tónica, Febrífuga, Antiséptica.<br /> Usos: Decocción.<br /> Partes utilizadas: Raiz. ",
+    "usos" : "» Falta de apetito » Indigestión",
+    "titulo" : "Genciana",
+    "id" : "59",
+    "imagen" : "genciana",
+    "genero" : "Gencianáceas"
+  },
+  {
+    "contenido" : "Francés\/Inglés: Géranium.<br /> genero: Geraniáceas.<br /><br /> Planta de tallo carnoso, originaria de Africa del Sur, y cultivada por sus flores ornamentales, el geranio es muy común en Europa. Sólo florece al cabo de varios años de vida. En sus primeras fases de crecimiento es delicada, verde y con un alto contenido en jugos; posteriormente adquiere una textura leñosa.<br /> El geranio es muy rico en aceites esenciales y ha sido utilizado desde hace siglos por sus propiedades relajantes y astringentes cutáneas. El agradable aroma del aceite esencial del geranio hace de él una planta imprescindible en la industria de la perfumería. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Geranio",
+    "id" : "60",
+    "imagen" : "geranio",
+    "genero" : "Geraniáceas"
+  },
+  {
+    "contenido" : "Unica especie existente de las Ginkgoatas, clase perteneciente a las Coníferas, árbol muy ramificado, caducifolio, originario de las zonas templadas del Este de Asia. Este peculiar árbol ornamental y medicinal, que puede llegar a alcanzar los 30 metros, está muy ligado a la cultura tradicional china, coreana y japonesa, donde es considerado casi sagrado. El ginkgo biloba es un árbol milenario que cuenta con más de 250 millones de años. Es un árbol prehistórico pues es el único superviviente de una familia que tuvo su apogeo en la Era Secundaria. Posee una resistencia asombrosa; se dice incluso que fue el único árbol que sobrevivió a Hiroshima. También recibe el nombre de árbol de los cuarenta escudos pues sus hojas adquieren un color dorado resplandeciente durante el otoño y son muy ricas en activos antioxidantes esenciales que impiden la formación de los radicales libres. Estos activos también están presentes en la composición de algunos productos farmacéuticos.<br /> Además, su contenido en flavonoides le confiere una importante actividad antioxidante que frena el ataque de los radicales libres, responsables de la alteración y muerte de las células. Por otra parte, su destacable actividad sobre la circulación venosa y arterial, hace que ocupe un lugar destacado en el tratamiento de las afecciones circulatorias periféricas que, a nivel retiniano y cerebral, se traduce en una ralentización del envejecimiento de la retina y en una disminución de los problemas ligados a la senectud.<br /> Usos: Trastornos circulatorios cerebrales (pérdida de memoria, vértigos). Envejecimiento: antirradicales libres.<br /> Partes utilizadas: Hoja. Aunque los chinos utilizan todas las partes del árbol para beneficiarse de sus propiedades (madera, corteza, hojas y frutos), son las hojas las que poseen las propiedades terapéuticas más importantes. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Ginkgo Biloba",
+    "id" : "61",
+    "imagen" : "ginkgo1",
+    "genero" : ""
+  },
+  {
+    "contenido" : "genero: Araliáceas.<br /><br /> Esta maravillosa planta asiática se cultiva desde hace milenios en China. Su raíz, conocida como flor de vida, se caracteriza porque semeja en cierto modo a un ser humano. De sabor aromático y amargo, es tónica, depurativa y afrodisíaca. Los chinos le atribuyen innumerables propiedades estimulantes que preservan la juventud. El ginseng ejerce una acción tónica general en el organismo; además contiene un gran número de nutrientes, entre ellos las vitaminas. <br /> Originario de China y Corea, el ginseng nace espontáneamente en los bosques sombríos de Extremo Oriente. Para recolectar su raiz es necesario esperar 6 años, pues sólo así se consigue una cantidad óptima de principios activos. Es una de las plantas más antiguas, gozando desde hace más de 2000 años en China, de una reputación de tónico, afrodisíaco y de elixir de longevidad. Con toda seguridad, es la planta sobre la que se han realizado mayor número de investigaciones farmacológicas y clínicas. En lo que respecta a su composición, además de ginsenósidos, también encontramos vitaminas del grupo B, vitamina C, aceite esencial, aminoácidos, etc. Es conocido en todo el mundo como el alimento natural que, gracias a sus principios activos, ayuda a favorecer la eficiencia física y mental, y a mantener las condiciones naturales para un bienestar equilibrado.<br /> Usos: Tónico contra el estrés y el cansancio físico e intelectual. Convalecencia. Estados gripales.<br /> Partes utilizadas: Raiz. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Ginseng",
+    "id" : "62",
+    "imagen" : "ginseng",
+    "genero" : "Araliáceas"
+  },
+  {
+    "contenido" : "Francés: Tournesol.<br /> Inglés: Sunflower.<br /> genero: Compuestas.<br /><br /> El girasol , oriunda del Perú, es una planta herbácea alta, de hojas grandes, de semilla oleaginosa y cuyas grandes flores de pétalos amarillos siguen la trayectoria del sol. Su nombre viene de la mitología griega, que cuenta que la joven Clitia se había enamorado de Helios, el dios del sol, quien no la correspondía. La pasión de la joven era tan intensa que pasaba todo el tiempo contemplándolo, de modo que decidió transformarse en Helianto, la flor que siempre gira en torno al sol.<br /> Los indígenas de Norteamérica apreciaron sus virtudes medicinales y nutritivas, y le rindieron culto pues la consideraban una planta divina que representaba el sol. En el siglo XVI los marineros españoles bajo las órdenes de Cortés trajeron el girasol del Nuevo Mundo y su cultivo se difundió poco a poco por toda Europa. De las semillas del girasol se extrae un aceite que se utiliza en cosmetología por su acción hidratante y protectora. También se extraen un aceite de mesa y un orujo utilizado en la alimentación del ganado. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Girasol",
+    "id" : "63",
+    "imagen" : "girasol",
+    "genero" : "Compuestas"
+  },
+  {
+    "contenido" : "Euskera: Askitza<br /> genero: Gramíneas.<br /><br /> Planta medicinal muy común, de tallo rastrero y flores en espigas filiformes que salen en número de tres ó cinco en el extremo de los tallos. Crece en las regiones cálidas y templadas.<br /> Indicaciones: Indigestión, Reumatismo, Riñón, Vejiga.<br /> Propiedades: Depurativa, Diurética.<br /> Usos: Decocción.<br /> Partes utilizadas: Raiz, Rizoma. ",
+    "usos" : "» Indigestión » Reumatismo » Riñón » Vejiga",
+    "titulo" : "Grama",
+    "id" : "64",
+    "imagen" : "grama",
+    "genero" : "Gramíneas"
+  },
+  {
+    "contenido" : "Arbusto sapindáceo de flores blancas, cuyas semillas, tostadas, se usan en el Brasil para preparar una bebida refrescante y febrífuga. Las magníficas propiedades de este arbusto de la cuenca del Amazonas han dado lugar a una curiosa leyenda según la cual, Tupa, el Dios de los Indios, apiadado por la muerte del protector de una tribu que habitaba en las márgenes del río Manués, anunció que si plantaban sus ojos nacería una planta sagrada que proporcionaría alimento y sanaría a los enfermos. Tradicionalmente, se aconseja en caso de astenia gracias a sus propiedades estimulantes. Además, su gran riqueza en cafeína es particularmente útil en los regímenes de adelgazamiento, pues activa la combustión de los cuerpos grasos y estimula la liberación de la adrenalina, permitiendo al organismo quemar más rápidamente las grasas.<br /> Usos: Estimulante en caso de fatiga, astenia, convalecencia. Obesidad, Sobrepeso.<br /> Partes utilizadas: Fruto. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Guaraná",
+    "id" : "65",
+    "imagen" : "guarana1",
+    "genero" : ""
+  },
+  {
+    "contenido" : "El gugulón es un árbol pequeño con ramas espinosas que crece en las regiones áridas de la India, Pakistán y Bangladesh. De él se recoge un exudado realizando una serie de incisiones en el tronco. Después se deja secar para su posterior cromolienda. Es una especie medicinal muy reputada en la medicina india, en donde se utiliza para aliviar los dolores articulares y regular las alteraciones lipídicas.<br /> Usos y propiedades:<br /> La medicina hindú atribuye al gugulón interesantes propiedades hipolipidémicas. Numerosos ensayos clínicos han puesto de manifiesto que el gugulón hace disminuir los lípidos totales, los triglicéridos y el colesterol, además de mejorar el estado cardíaco. Gracias a todas estas propiedades, se puede utilizar eficazmente en la prevención de la arteriosclerosis. Por su acción sobre la eliminación de lípidos, también puede utilizarse en el tratamiento de la obesidad. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Gugulón",
+    "id" : "66",
+    "imagen" : "guggul",
+    "genero" : ""
+  },
+  {
+    "contenido" : "Francés: Petit pois.<br /> Inglés: Pea.<br /> genero: Papilionáceas.<br /><br /> Planta hortense, leguminosa, de hojas grandes y compuestas, flores de color blanco, rojo y azulado y fruto en vaina con varias semillas. El guisante es una semilla originaria de Abisinia. Se cultiva desde los tiempos prehistóricos por su fruto comestible, rico en almidón, vitaminas B y C. Su utilización culinaria se ha difundido en el mundo entero.<br /> El extracto de guisante se utiliza en cosmetología dado que refuerza las defensas naturales de la piel y neutraliza los radicales libres producidos por las agresiones exteriores como el sol y el tabaco, entre otras. <br /> Partes utilizadas: Fruto. genero: Papilionáceas.<br /><br /> Planta leguminosa de flores blancas o rosáceas y fruto en vaina, con cinco ó seis semillas comestibles.<br /> El haba de lima o Phaesolus lunatus, es una leguminosa muy conocida en América del Sur por su riqueza en proteínas, azúcares de lenta asimilación y sales minerales que le confieren importantes virtudes alimenticias. Crece en los terrenos áridos y a menudo infectados de insectos, por lo que esta planta ha desarrollado de manera natural una sustancia estabilizadora capaz de proteger sus proteínas de la deshidratación y de los ataques de estos animales.<br /> En cosmetología, se utiliza esta sustancia estabilizadora de las proteínas y de los aminoácidos de la piel por su alto poder hidratante (fijación del agua). ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Haba de Lima",
+    "id" : "67",
+    "imagen" : "habalima",
+    "genero" : "Papilionáceas"
+  },
+  {
+    "contenido" : "Nombre Popular: Hamamelis, nuez mágica, avellano de bruja, vara mosqueada<br /> genero: Hamamelidáceas. Es un arbusto de finas flores amarillas, originario de Estados Unidos y Canadá. En fitoterapia, se utilizan sus hojas por poseer principios activos muy beneficiosos en el tratamiento de los trastornos circulatorios. Ejerce dos acciones: venotónica y vitamínica P. La acción venotónica se manifiesta mediante una contracción de los vasos sanguíneos que favorece el flujo sanguíneo. En cuanto a la acción vitamínica P, ésta se traduce en un aumento de la resistencia de las venas y de los capilares, así como en una disminución de la permeabilidad capilar, responsable del edema y la inflamación. Por otro lado, el efecto antioxidante de los flavonoides presentes en su composición, protege la pared de las venas y los capilares.<br /> Usos: Varices. Piernas cansadas. Hemorroides. Fragilidad de los capilares.<br /> Partes utilizadas: Hoja. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Hamamelis",
+    "id" : "68",
+    "imagen" : "hamamelis2",
+    "genero" : "Hamamelidáceas"
+  },
+  {
+    "contenido" : "El Harpagofito, también llamado Harpago, Raíz de Windhoek ó Garra del Diablo por su peculiar forma ganchuda, es una planta originaria del Sur de Africa, localizándose principalmente en las regiones que bordean el desierto de Kalahari.<br /> Los principios activos presentes en su raiz hacen que se utilice como tratamiento de sustitución de las terapias antirreumáticas químicas, obteniéndose también excelentes resultados en tratamientos coadyuvantes, gracias a su remarcable acción antiinflamatoria, comparable a la de la cortisona y la fenilbutazona, con la ventaja añadida de no presentar efectos segundarios. También posee efectos analgésicos y espasmolíticos.<br /> Usos: Reumatismos degenerativos en general. Artrosis, Artritis. Dolores articulares del deportista.<br /> Partes utilizadas: Raiz segundaria. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : " Harpagofito",
+    "id" : "69",
+    "imagen" : "harpagofito1",
+    "genero" : ""
+  },
+  {
+    "contenido" : "Euskera: Usteltxa.<br /> genero: Compuestas.<br /><br /> Planta compuesta, de un metro de altura, de flores amarillas, raiz amarga y aromática usada en medicina, y hojas muy grandes y oblongas. Crece en los lugares húmedos.<br /> Indicaciones: Asma, Bronquitis, Ciática, Trastornos menstruales.<br /> Propiedades: Aperitiva, Carminativa, Cicatrizante, Diurética, Emenagoga, Sudorífica.<br /> Usos: Infusión, Maceración.<br />Partes utilizadas: Raiz, Rizoma. ",
+    "usos" : "» Asma » Bronquitis » Ciática » Trastornos menstruales",
+    "titulo" : "Helenio",
+    "id" : "70",
+    "imagen" : "helenio",
+    "genero" : "Compuestas"
+  },
+  {
+    "contenido" : "Francés: Lierre.<br /> Inglés: Ivy.<br /> genero: Araliáceas.<br /><br /> Planta leñosa, trepadora que vive adherida a las paredes o a los árboles mediante zarcillos, de hojas coriáceas, perennes, flores de color amarillo verdoso y fruto en bayas negras.<br /> Antiguamente, la hiedra trepadora fué considerada una planta mágica y símbolo de la fidelidad. Los griegos la tenían como emblema de Dionisio, dios del vino, de la alegría y de la vitalidad. También se la consideraba como símbolo de la inmortalidad y de la eterna juventud. En aquella época ya se la utilizaba contra el acolchado. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Hiedra",
+    "id" : "71",
+    "imagen" : "hiedra",
+    "genero" : "Araliáceas"
+  },
+  {
+    "contenido" : "Francés: Menthe poivrée.<br /> Inglés: Peppermint.<br /> genero: Labiadas.<br /><br /> Planta herbácea, vivaz y olor agradable, que se usa como condimento. <br /> Uso tópico como hierba aromática:<br /> Esta menta, al no tener mentol, es segura para embarazadas y niños. Por otro lado, dado su poder antiparasitario, se puede utilizar para extractos en agua, amoniaco y alcohol, y elaborar limpiadores de superficies. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Hierbabuena ",
+    "id" : "72",
+    "imagen" : "hierbabuena",
+    "genero" : "Labiadas"
+  },
+  {
+    "contenido" : "Otros nombres: Verbena olorosa, Luisa.<br /> genero: Verbenáceas.<br /><br /> Planta de hojas lanceoladas opuestas de olor de limón muy agradable. Descubierta en Chile, la Hierba Luisa fué introducida en Europa solamente en 1784. Se ha aclimatado principalmente en las regiones meridionales, particularmente en Marruecos donde se cultiva a los pies de la sierra Atlas. Se trata de un arbusto de pequeño tamaño que crece en matas de tallos rectos, hojas oblongas y pequeñas flores rosadas formando espigas. La fragancia de la hoja de Hierba Luisa se debe al Citral, elemento esencial de su aceite volátil.<br /> Propiedades: Digestiva, Estomacal, Tónica, Antiespasmódico, Estimulante.<br /> Usos: Infusión.<br /> Partes utilizadas: Hojas. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Hierba Luisa",
+    "id" : "73",
+    "imagen" : "hierbaluisa1",
+    "genero" : "Verbenáceas"
+  },
+  {
+    "contenido" : "Euskera: Mihilua.<br /> Francés: Fenouil.<br /> Inglés: Fennel.<br /> genero: Umbelíferas.<br /><br /> Planta aromática, de hojas filiformes y flores pequeñas y amarillas dispuestas en umbelas compuestas. Los frutos tienen un intenso sabor a anis y se utilizan en repostería y en la elaboración de licores. Las hojas se usan como condimento. Crece en cultivos y baldíos de la Europa mediterránea.<br /> Es un apreciable calmante de las afecciones renales. Sus semillas alivian los dolores producidos por los cólicos nefríticos.<br /> Indicaciones: Atonía estomacal, Falta de apetito, Indigestión.<br /> Propiedades: Aperitiva, Carminativa, Digestiva, Diurética, Depurativa, Galactógena.<br /> Usos: Infusión, Decocción.<br /> Partes utilizadas: Fruto, Raiz. ",
+    "usos" : "» Atonía estomacal » Falta de apetito » Indigestión",
+    "titulo" : "Hinojo",
+    "id" : "74",
+    "imagen" : "hinojo1",
+    "genero" : "Umbelíferas"
+  },
+  {
+    "contenido" : "Euskera: Hostoargala.<br /> genero: Gutíferas.<br /><br /> El Hipérico es una planta herbácea, perenne, de hojas opuestas y enteras y flores amarillas, fruto en cápsula ó en baya carnosa, originaria de Europa y Asia Central. Es conocida y utilizada por la medicina popular desde hace muchos siglos para aliviar problemas neurológicos como la ansiedad, la irritabilidad o la migraña. En el Siglo XIX, se desarrolló considerablemente su uso y desde entonces, su popularidad no ha cesado de crecer.<br /> Contra la depresión: la planta del optimismo.<br /> El hipérico ó hierba de San Juan, tiene muchas aplicaciones, entre ellas, se utiliza para combatir las depresiones leves, la ansiedad, el estrés, la irritabilidad nerviosa y la fatiga, ya que es capaz de proporcionar una sensación de bienestar y optimismo. En infusión sube el ánimo. Macerado en aceite de oliva, alivia los rasguños.<br /> Sus sumidades floridas contienen un principio activo, la hipericina, al que se le atribuyen esencialmente los efectos antidepresivos y soporíferos de la planta. La hipericina actúa provocando un efecto global de la normalización de los neurotransmisores implicados en la modulación del humor. Diversos estudios clínicos han demostrado su eficacia en el tratamiento de la depresión ligera a moderada.<br /> Precauciones: No debe combinarse con antidepresivos farmacológicos ni narcóticos.<br /> Indicaciones: Gastritis, Heridas, Neuralgias, Quemaduras, Ulceras, Varices.<br /> Propiedades: Astringente, Cicatrizante, Desinflamatoria, Tonificante.<br /> Usos: Infusión, Maceración.<br /> Partes utilizadas: Flor.<br /> Consejo. Infusión: Mezclar 20 gr. de hipérico, melisa y espino blanco, más 10 gr. de valeriana, pasiflora y anis estrellado. ",
+    "usos" : "» Gastritis » Heridas » Neuralgias » Quemaduras » Ulceras » Varices",
+    "titulo" : "Hipérico",
+    "id" : "75",
+    "imagen" : "hiperico",
+    "genero" : "Gutíferas"
+  },
+  {
+    "contenido" : "Euskera: Urdingorria.<br /> genero: Labiadas.<br /><br /> Planta muy olorosa, de hojas pecioladas, de flores azules, blancas ó rosadas, cuya infusión es estimulante. Cultivada y naturalizada en la Europa mediterránea.<br /> Indicaciones: Afecciones bronquiales, Aparato respiratorio.<br /> Propiedades: Expectorante.<br /> Usos: Infusión.<br /> Partes utilizadas: Flor. ",
+    "usos" : "» Afecciones bronquiales » Aparato respiratorio",
+    "titulo" : "Hisopo",
+    "id" : "76",
+    "imagen" : "hisopo",
+    "genero" : "Labiadas"
+  },
+  {
+    "contenido" : "genero: Compuestas.<br /><br /> El humagón es originario de Canadá y Estados Unidos, aunque en la actualidad, se encuentra en todos los continentes. Se introdujo en Europa en el Siglo XVII con fines ornamentales. Presenta flores agrupadas en capítulos y fruto comprimido.<br /> Usos y propiedades:<br /> El estudio de la composición de esta planta revela la presencia de flavonas y taninos que le confieren propiedades diuréticas y anti-inflamatorias. Es un eficaz aliado en el alivio de los dolores articulares inflamatorios de los reumatismos y la artrosis. En estos casos, se recomienda especialmente su asociación con el harpagofito ó el grosellero negro. Asimismo, ayuda a prevenir las crisis de gota y, debido a su actividad diurética, ayuda a reabsorber los edemas. El Ispaghul es una planta originaria de la India y Pakistán. Es una planta anual pequeña con tallos erguidos que tienen en sus extremos, unas espigas cilíndricas con flores blancas. La medicina tradicional de Asia occidental, la utilizó para mejorar la digestión de ciertos alimentos. Posteriormente se descubrieron sus propiedades antirradicales libres que se utilizan actualmente en cosmetologia.<br /> Pese a que sus semillas son muy ricas en mucílago , éstos se encuentran mayoritariamente en el tegumento de la semilla. Un gramo de tegumento absorbe 40 gramos de agua formando un gel en el estómago no digerible, suave y no irritante que actúa a diferentes niveles. Por un lado, por una acción mecánica actúa contra el estreñimiento crónico y por otro, gracias a su acción suave y regular, calma las colitis y las irritaciones del intestino. Tomado antes de las comidas, consigue retrasar y disminuir la absorción de azúcares y grasas, por lo que se recomienda en las dietas de control de peso.<br /> Usos: Estreñimiento crónico: Tratamiento de fondo, bienestar intestinal. Control de peso: Efecto supresor del apetito, estabilización del peso.<br /> Partes utilizadas: Tegumento de la semilla. Francés: Gingembre.<br /> Inglés: Ginger.<br /> genero: Zingiberáceas.<br /><br /> Planta de flores purpúreas, en espigas, fruto capsular y rizoma nudoso, de olor aromático y sabor acre y picante como el de la pimienta, el jenjibre es originario de la India. Se cuenta que detrás del empeño de los Europeos por descubrir la famosa ruta de las Indias, estaba la conquista de esta especia que era una de las más apreciadas en la Edad Media. Fué finalmente, Marco Polo quien lo dió a conocer en Europa a finales del Siglo XIII.<br /> Usos y propiedades:<br /> La raiz del jengibre se utiliza en China desde hace miles de años como condimento, así como por sus propiedades terapéuticas. En su composición destaca un aceite esencial y principios amargos a los que debe sus propiedades estimulantes, aromáticas y estomáquicas. En la medicina tradicional árabe, se utiliza para estimular la libido, lo que le ha granjeado su popularidad. Esta actividad estaría relacionada con su contenido en gingeroles que actuarían sobre la fertilidad. Es uno de los estimulantes más poderosos que se conocen. Fortalece el corazón y evita la mala circulación, baja la tensión arterial y previene los trastornos cardíacos. Los últimos estudios llevados a cabo han puesto de manifiesto que el jengibre ejerce una interesante acción antilipidémica. Asimismo, es eficaz en caso de mareos originados por los viajes (en este caso, debe ingerirse veinticinco minutos antes de utilizar el medio de locomoción). Finalmente, gracias a sus propiedades estimulantes, se aconseja en caso de cansancio físico y sexual.<br /> Usos: Mareos del transporte. Vómitos. Fatiga, Astenia, Impotencia.<br /> Partes utilizadas: Rizoma. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Jenjibre",
+    "id" : "77",
+    "imagen" : "ginger2",
+    "genero" : "Zingiberáceas"
+  },
+  {
+    "contenido" : "Francés: Haricot vert.<br /> Inglés: French bean.<br /> genero: Papilionáceas.<br /><br /> Planta leguminosa de tallos volubles, flores blancas y fruto comestible. El descubrimiento de la vaina de judía se debe a los conquistadores españoles quienes la trajeron desde Méjico y América Central a principios del Siglo XVI. Su importancia en fitoterapia se debe a su efecto diurético y a sus propiedades antidiabéticas. Su acción se debe a su contenido en flavonoides y fibras que consiguen ralentizar la absorción de los glúcidos y, por consiguiente, regular la secreción de insulina.<br /> Puesto que la insulina es la hormona responsable del almacenamiento de las grasas en nuestras células adiposas, la vaina de judía representa una gran ayuda en el tratamiento de la obesidad. Su poder diurético ayuda a la eliminación del exceso de agua de los tejidos. Planta arbórea africana cuyo fruto, la Nuez de Cola se emplea como tónico y estimulante. Los kolateros son árboles originarios de Africa tropical. Su semilla tiene propiedades tónicas y reconstituyentes. Actualmente se cultivan en Costa de Marfil y Nigeria. Desde los tiempos más remotos, los indígenas de Africa las utilizaban para paliar los esfuerzos musculares prolongados.<br /> Usos y propiedades:<br /> El análisis de la semilla ha revelado la presencia de alcaloides, especialmente cafeína y teobromina, de propiedades estimulantes sobre el sistema nervioso y muscular. Estas propiedades tónicas hacen que sea una de las plantas clásicas en el tratamiento del cansancio. La Nuez de Cola además se emplea en la fabricación de refrescos de cola.<br /> Partes utilizadas: Semilla. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Kola",
+    "id" : "78",
+    "imagen" : "Cola",
+    "genero" : "Papilionáceas"
+  },
+  {
+    "contenido" : "genero: Papilionáceas.<br /><br /> Planta leguminosa de flores blancas o rosáceas y fruto en vaina, con cinco ó seis semillas comestibles.<br /> El haba de lima o Phaesolus lunatus, es una leguminosa muy conocida en América del Sur por su riqueza en proteínas, azúcares de lenta asimilación y sales minerales que le confieren importantes virtudes alimenticias. Crece en los terrenos áridos y a menudo infectados de insectos, por lo que esta planta ha desarrollado de manera natural una sustancia estabilizadora capaz de proteger sus proteínas de la deshidratación y de los ataques de estos animales.<br /> En cosmetología, se utiliza esta sustancia estabilizadora de las proteínas y de los aminoácidos de la piel por su alto poder hidratante (fijación del agua). ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Haba de Lima",
+    "id" : "79",
+    "imagen" : "habalima",
+    "genero" : "Papilionáceas"
+  },
+  {
+    "contenido" : "Nombre Popular: Hamamelis, nuez mágica, avellano de bruja, vara mosqueada<br /> genero: Hamamelidáceas. Es un arbusto de finas flores amarillas, originario de Estados Unidos y Canadá. En fitoterapia, se utilizan sus hojas por poseer principios activos muy beneficiosos en el tratamiento de los trastornos circulatorios. Ejerce dos acciones: venotónica y vitamínica P. La acción venotónica se manifiesta mediante una contracción de los vasos sanguíneos que favorece el flujo sanguíneo. En cuanto a la acción vitamínica P, ésta se traduce en un aumento de la resistencia de las venas y de los capilares, así como en una disminución de la permeabilidad capilar, responsable del edema y la inflamación. Por otro lado, el efecto antioxidante de los flavonoides presentes en su composición, protege la pared de las venas y los capilares.<br /> Usos: Varices. Piernas cansadas. Hemorroides. Fragilidad de los capilares.<br /> Partes utilizadas: Hoja. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Hamamelis",
+    "id" : "80",
+    "imagen" : "hamamelis2",
+    "genero" : "Hamamelidáceas"
+  },
+  {
+    "contenido" : "El Harpagofito, también llamado Harpago, Raíz de Windhoek ó Garra del Diablo por su peculiar forma ganchuda, es una planta originaria del Sur de Africa, localizándose principalmente en las regiones que bordean el desierto de Kalahari.<br /> Los principios activos presentes en su raiz hacen que se utilice como tratamiento de sustitución de las terapias antirreumáticas químicas, obteniéndose también excelentes resultados en tratamientos coadyuvantes, gracias a su remarcable acción antiinflamatoria, comparable a la de la cortisona y la fenilbutazona, con la ventaja añadida de no presentar efectos segundarios. También posee efectos analgésicos y espasmolíticos.<br /> Usos: Reumatismos degenerativos en general. Artrosis, Artritis. Dolores articulares del deportista.<br /> Partes utilizadas: Raiz segundaria. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : " Harpagofito",
+    "id" : "81",
+    "imagen" : "harpagofito1",
+    "genero" : ""
+  },
+  {
+    "contenido" : "Euskera: Usteltxa.<br /> genero: Compuestas.<br /><br /> Planta compuesta, de un metro de altura, de flores amarillas, raiz amarga y aromática usada en medicina, y hojas muy grandes y oblongas. Crece en los lugares húmedos.<br /> Indicaciones: Asma, Bronquitis, Ciática, Trastornos menstruales.<br /> Propiedades: Aperitiva, Carminativa, Cicatrizante, Diurética, Emenagoga, Sudorífica.<br /> Usos: Infusión, Maceración.<br />Partes utilizadas: Raiz, Rizoma. ",
+    "usos" : "» Asma » Bronquitis » Ciática » Trastornos menstruales",
+    "titulo" : "Helenio",
+    "id" : "82",
+    "imagen" : "helenio",
+    "genero" : "Compuestas"
+  },
+  {
+    "contenido" : "Francés: Lierre.<br /> Inglés: Ivy.<br /> genero: Araliáceas.<br /><br /> Planta leñosa, trepadora que vive adherida a las paredes o a los árboles mediante zarcillos, de hojas coriáceas, perennes, flores de color amarillo verdoso y fruto en bayas negras.<br /> Antiguamente, la hiedra trepadora fué considerada una planta mágica y símbolo de la fidelidad. Los griegos la tenían como emblema de Dionisio, dios del vino, de la alegría y de la vitalidad. También se la consideraba como símbolo de la inmortalidad y de la eterna juventud. En aquella época ya se la utilizaba contra el acolchado. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Hiedra",
+    "id" : "83",
+    "imagen" : "hiedra",
+    "genero" : "Araliáceas"
+  },
+  {
+    "contenido" : "Francés: Menthe poivrée.<br /> Inglés: Peppermint.<br /> genero: Labiadas.<br /><br /> Planta herbácea, vivaz y olor agradable, que se usa como condimento. <br /> Uso tópico como hierba aromática:<br /> Esta menta, al no tener mentol, es segura para embarazadas y niños. Por otro lado, dado su poder antiparasitario, se puede utilizar para extractos en agua, amoniaco y alcohol, y elaborar limpiadores de superficies. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Hierbabuena ",
+    "id" : "84",
+    "imagen" : "hierbabuena",
+    "genero" : "Labiadas"
+  },
+  {
+    "contenido" : "Otros nombres: Verbena olorosa, Luisa.<br /> genero: Verbenáceas.<br /><br /> Planta de hojas lanceoladas opuestas de olor de limón muy agradable. Descubierta en Chile, la Hierba Luisa fué introducida en Europa solamente en 1784. Se ha aclimatado principalmente en las regiones meridionales, particularmente en Marruecos donde se cultiva a los pies de la sierra Atlas. Se trata de un arbusto de pequeño tamaño que crece en matas de tallos rectos, hojas oblongas y pequeñas flores rosadas formando espigas. La fragancia de la hoja de Hierba Luisa se debe al Citral, elemento esencial de su aceite volátil.<br /> Propiedades: Digestiva, Estomacal, Tónica, Antiespasmódico, Estimulante.<br /> Usos: Infusión.<br /> Partes utilizadas: Hojas. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Hierba Luisa",
+    "id" : "85",
+    "imagen" : "hierbaluisa1",
+    "genero" : "Verbenáceas"
+  },
+  {
+    "contenido" : "Euskera: Mihilua.<br /> Francés: Fenouil.<br /> Inglés: Fennel.<br /> genero: Umbelíferas.<br /><br /> Planta aromática, de hojas filiformes y flores pequeñas y amarillas dispuestas en umbelas compuestas. Los frutos tienen un intenso sabor a anis y se utilizan en repostería y en la elaboración de licores. Las hojas se usan como condimento. Crece en cultivos y baldíos de la Europa mediterránea.<br /> Es un apreciable calmante de las afecciones renales. Sus semillas alivian los dolores producidos por los cólicos nefríticos.<br /> Indicaciones: Atonía estomacal, Falta de apetito, Indigestión.<br /> Propiedades: Aperitiva, Carminativa, Digestiva, Diurética, Depurativa, Galactógena.<br /> Usos: Infusión, Decocción.<br /> Partes utilizadas: Fruto, Raiz. ",
+    "usos" : "» Atonía estomacal » Falta de apetito » Indigestión",
+    "titulo" : "Hinojo",
+    "id" : "86",
+    "imagen" : "hinojo1",
+    "genero" : "Umbelíferas"
+  },
+  {
+    "contenido" : "Euskera: Hostoargala.<br /> genero: Gutíferas.<br /><br /> El Hipérico es una planta herbácea, perenne, de hojas opuestas y enteras y flores amarillas, fruto en cápsula ó en baya carnosa, originaria de Europa y Asia Central. Es conocida y utilizada por la medicina popular desde hace muchos siglos para aliviar problemas neurológicos como la ansiedad, la irritabilidad o la migraña. En el Siglo XIX, se desarrolló considerablemente su uso y desde entonces, su popularidad no ha cesado de crecer.<br /> Contra la depresión: la planta del optimismo.<br /> El hipérico ó hierba de San Juan, tiene muchas aplicaciones, entre ellas, se utiliza para combatir las depresiones leves, la ansiedad, el estrés, la irritabilidad nerviosa y la fatiga, ya que es capaz de proporcionar una sensación de bienestar y optimismo. En infusión sube el ánimo. Macerado en aceite de oliva, alivia los rasguños.<br /> Sus sumidades floridas contienen un principio activo, la hipericina, al que se le atribuyen esencialmente los efectos antidepresivos y soporíferos de la planta. La hipericina actúa provocando un efecto global de la normalización de los neurotransmisores implicados en la modulación del humor. Diversos estudios clínicos han demostrado su eficacia en el tratamiento de la depresión ligera a moderada.<br /> Precauciones: No debe combinarse con antidepresivos farmacológicos ni narcóticos.<br /> Indicaciones: Gastritis, Heridas, Neuralgias, Quemaduras, Ulceras, Varices.<br /> Propiedades: Astringente, Cicatrizante, Desinflamatoria, Tonificante.<br /> Usos: Infusión, Maceración.<br /> Partes utilizadas: Flor.<br /> Consejo. Infusión: Mezclar 20 gr. de hipérico, melisa y espino blanco, más 10 gr. de valeriana, pasiflora y anis estrellado. ",
+    "usos" : "» Gastritis » Heridas » Neuralgias » Quemaduras » Ulceras » Varices",
+    "titulo" : "Hipérico",
+    "id" : "87",
+    "imagen" : "hiperico",
+    "genero" : "Gutíferas"
+  },
+  {
+    "contenido" : "Euskera: Urdingorria.<br /> genero: Labiadas.<br /><br /> Planta muy olorosa, de hojas pecioladas, de flores azules, blancas ó rosadas, cuya infusión es estimulante. Cultivada y naturalizada en la Europa mediterránea.<br /> Indicaciones: Afecciones bronquiales, Aparato respiratorio.<br /> Propiedades: Expectorante.<br /> Usos: Infusión.<br /> Partes utilizadas: Flor. ",
+    "usos" : "» Afecciones bronquiales » Aparato respiratorio",
+    "titulo" : "Hisopo",
+    "id" : "88",
+    "imagen" : "hisopo",
+    "genero" : "Labiadas"
+  },
+  {
+    "contenido" : "El género Kalanchoe contien especies con propiedades medicinales que se usan desde antaño para diversas dolencias, entre ellas los tumores cancerosos.<br /><br />\n\nExisten muchas variedades de Kalanchoe, también clasificadas como Bryophyllum, de estas algunas tienen propiedades medicinales asombrosas. En el continente americano, los aborígenes de los países como: México, Colombia, Brasil, Perú, Cuba, Ecuador, Bolivia, Nicaragua, Guatemala, por ejemplo, usan ciertas especies de Kalanchoes como medicina. Incluso por el año 1800 en Europa han trabajado algunas especies para ese fin, estas fueron introducidas desde América a ese continente. <br /><br />\n\nLa mayoría son arbustos o herbáceas perennes, con unas pocas anuales o bienales. La más grande Kalanchoe beharensis, de Madagascar, puede alcanzar los 6 m de altura, sin embargo la mayoría no superan 1 m.<br />\n\nTienen hojas carnosas, de color verde medio a oscuro, con cubierta cérea.<br />\n\nLos miembros del género se caracterizan por abrir sus flores haciendo crecer nuevas células en la superficie interior de los pétalos para forzarlas a salir y en la parte exterior para cerrarlas.<br />\n\nSurgen en tallos florales formando grandes umbelas de colores rosa, rojo, purpúreo, amarillo o blanco, según la especie o la variedad. Florece desde comienzos del invierno hasta la primavera.<br /><br />\n\nIndicaciones:<br />\n- Lesiones y enfermedades relacionadas con daños celulares, en especial el cáncer.<br />\n- Heridas profundas y gangrenadas<br />\n- Infecciones, quemaduras<br />\n- Tumores y abscesos<br />\n- Reumatismo<br />\n- Inflamaciones<br />\n- Hipertensión<br />\n- Cólicos renales<br />\n- Diarreas<br />\n- Enfermedades psicológicas: esquizofrenia, crisis de pánico y miedos.<br />\n\n\n<br />\nContraindicaciones:<br />\n- No tomarlas durante el embarazo ya que pueden estimular el útero. No conviene usar la planta de forma continuada por largos periodos de tiempo si no es para tratamiento. Su composición incluye compuestos como los bufadienólidos que son glucósidos cardíacos, por lo que en pacientes afectados por cardiopatías hay que consultar con el médico. La investigación clínica efectuada sobre las kalanchoe indica que puede haber toxicidad si se abusa de la planta y señala que hasta dosis de 5 gramos de planta por kilo de peso no hay toxicidad (esto equivale a unos 350 gramos de hoja para una persona de 70 kilos, que es una dosis de cuatro a diez veces superior a la aconsejada).\n<br /><br />\n\nUsos: Infusion, Ensaladas, Zumos<br />\nPartes utilizadas: Hoja",
+    "usos" : "» Tumores » Cólico » Reumatismo » Hipertensión » Diarrea » Quemadura » Cortes y heridas",
+    "titulo" : "Kalanchoe",
+    "id" : "170",
+    "imagen" : "kalan",
+    "genero" : "Crasuláceas"
+  },
+  {
+    "contenido" : "genero: Compuestas.<br /><br /> El humagón es originario de Canadá y Estados Unidos, aunque en la actualidad, se encuentra en todos los continentes. Se introdujo en Europa en el Siglo XVII con fines ornamentales. Presenta flores agrupadas en capítulos y fruto comprimido.<br /> Usos y propiedades:<br /> El estudio de la composición de esta planta revela la presencia de flavonas y taninos que le confieren propiedades diuréticas y anti-inflamatorias. Es un eficaz aliado en el alivio de los dolores articulares inflamatorios de los reumatismos y la artrosis. En estos casos, se recomienda especialmente su asociación con el harpagofito ó el grosellero negro. Asimismo, ayuda a prevenir las crisis de gota y, debido a su actividad diurética, ayuda a reabsorber los edemas. Euskera: Lapaitza<br /> genero: Compuestas.<br /><br /> Planta herbácea, erecta, de hojas aovadas y flores purpúreas en cabezuelas terminales. Crece en baldíos y árcenes de toda Europa.<br /> Indicaciones: Forúnculos, Heridas.<br /> Propiedades: Cicatrizante, Emoliente.<br /> Usos: Decocción.<br /> Partes utilizadas: Raiz. ",
+    "usos" : "» Forúnculos » Heridas",
+    "titulo" : "Lampazo Mayor",
+    "id" : "89",
+    "imagen" : "lampazo",
+    "genero" : "Compuestas"
+  },
+  {
+    "contenido" : "Francés: Lavande.<br /> Inglés: Lavender.<br /> Otros nombres: Espliego, alhucema, cantueso.<br /> genero: Labiadas.<br /><br /> Planta vivaz, muy aromática, de flores azules, de las cuales se extrae un aceite esencial muy usado en perfumería. Crece en los terrenos secos y rocosos de la región mediterránea. Utilizada en la antigüedad para la limpieza, su nombre procede de lavare, en latin lavar.<br /> La lavanda es muy común en Francia, esencialmente en la Provenza, y en España. Florece en verano y sus bonitas flores azul violeta desprenden un perfume muy fino; su aceite esencial es el más puro y tiene propiedades terapéuticas, antisépticas y antiinflamatorias.<br /> Contra el nerviosismo:<br /> En infusión, reduce la irritabilidad nerviosa, las jaquecas, la ansiedad, el pánico y los problemas de insomnio. Es tónica, calmante y sedante. Fortalece el sistema nervioso.<br /> Precauciones: No ingerir el aceite esencial. Evitar usarla durante el embarazo y la lactancia.<br /> Consejo: Mezclar a partes iguales, lavanda, tilo, melisa, hojas y flores de pasiflora y espino albar. Utilizar una cuchara rasa de mezcla por taza de agua. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Lavanda",
+    "id" : "90",
+    "imagen" : "lavanda",
+    "genero" : "Labiadas"
+  },
+  {
+    "contenido" : "Francés: Lin.<br /> Inglés: Flax.<br /> genero: Lináceas.<br /><br /> Planta herbácea, textil y oleaginosa, de flores azules, cultivada en las regiones templadas. El lino es universalmente conocido por su utilización textil. Las fibras textiles se aislan del tallo por enriado.<br /> La semilla proporciona harina con la que se hacen cataplasmas emolientes, de gran efecto salutífero en casos de inflamaciones e irritaciones cutáneas, aceite secante, utilizado especialmente en pintura, y un pienso que se utiliza para la alimentación del ganado. La semilla del lino pardo es rica en azúcares y en péptidos que calman las comezones y las irritaciones cutáneas. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Lino",
+    "id" : "91",
+    "imagen" : "lino",
+    "genero" : "Lináceas"
+  },
+  {
+    "contenido" : "Francés: Iris.<br /> genero: Iridáceas.<br /><br /> Planta herbácea vivaz, de bulbo escamoso, hojas ensiformes y flores de seis pétalos azules, morados o blancos, el lirio se encuentra en estado salvaje aunque también se cultiva hoy en día para fines cosméticos. Cuando su raíz se seca adquiere un aroma agradable similar al de la violeta. Está presente en numerosos perfumes.<br /> Antiguamente los médicos lo recomendaban para calmar la tos de los niños y los dolores durante la época de crecimiento de los dientes. Gracias a su poder astringente y equilibrante, el extracto de lirio está presente en numerosos productos para las pieles grasas. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Lirio",
+    "id" : "92",
+    "imagen" : "iris1",
+    "genero" : "Iridáceas"
+  },
+  {
+    "contenido" : "Inglés: Plantain.<br /> genero: Plantagináceas.<br /><br /> Planta perenne, de hojas ovaladas y flores verdosas, muy común en los sitios húmedos. Crece en prados, árcenes y cultivos de toda Europa. El cocimiento de sus hojas se usa en medicina. El llantén mayor contiene iridoides, siendo el principal el aucubósido de propiedades antibacterianas y antitusivas, muy útiles en el tratamiento de las afecciones broncopulmonares. Los mucílagos presentes añaden una acción suavizante, emoliente. Asimismo es anti-inflamatorio y anti-alérgico, por lo que se convierte en un valioso aliado frente a las manifestaciones respiratorias alérgicas y el componente inflamatorio de las bronquitis, faringitis y laringitis.<br /> Usos: Decocción.<br /> Partes utilizadas: Hoja. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Llanten Mayor",
+    "id" : "93",
+    "imagen" : "llantencomun",
+    "genero" : "Plantagináceas"
+  },
+  {
+    "contenido" : "Euskera: Zain Belarra<br /> genero: Plantagináceas.<br /><br /> Planta herbácea de hojas lanceoladas y flores como el llantén mayor, al que sustituye en medicina. Con sus hojas se hace una infusión empleada como astringente y contra las oftalmías.<br /> Indicaciones: Diarrea, Disentería, Hemorragias, Inflamación encías.<br /> Propiedades: Astringente, Emoliente.<br /> Usos: Infusión.<br /> Partes utilizadas: Hoja. ",
+    "usos" : "» Diarrea » Disentería » Hemorragias » Inflamación encías",
+    "titulo" : "Llanten Menor",
+    "id" : "94",
+    "imagen" : "llantenmenor",
+    "genero" : "Plantagináceas"
+  },
+  {
+    "contenido" : "Inglés: Lotus flower.<br /> genero: Papilionáceas.<br /><br /> El loto ó lotus, es una planta acuática de hojas coriáceas y grandes flores olorosas, que abunda en las orillas del Nilo. Produce una fruta a la que antiguamente se le atribuyeron propiedades mágicas. En La Odisea, los lotófagos, pueblo legendario que Homero situó en la costa libia, hicieron comer de esta planta a los compañeros de Ulises y de este modo lograron que olvidaran su patria.<br /> El loto se ha utilizado en cosmetología desde hace muchos siglos y tiene como función suavizar la piel y descongestionar los tejidos. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Loto",
+    "id" : "95",
+    "imagen" : "loto",
+    "genero" : "Papilionáceas"
+  },
+  {
+    "contenido" : "Euskera: Luisa Belarra<br /> Francés: Verveine.<br /> genero: Verbenáceas.<br /><br /> Planta aromática, originaria del Perú, que tiene olor de limón, muy agradable, y cuyas hojas poseen propiedades tónicas, estomacales y antiespasmódicas.<br /> Indicaciones: Indigestión, Mareos, Palpitaciones.<br /> Propiedades: Antiespasmódica, Carminativa, Digestiva.<br /> Usos: Infusión.<br /> Partes utilizadas: Hoja. ",
+    "usos" : "» Indigestión » Mareos » Palpitaciones",
+    "titulo" : "Luisa ó Hierba Luisa",
+    "id" : "96",
+    "imagen" : "hierbaluisa1",
+    "genero" : "Verbenáceas"
+  },
+  {
+    "contenido" : "Francés: Houblon.<br /> Inglés: hops.<br /> genero: Cannabináceas.<br /><br /> Planta herbácea, trepadora, de hojas parecidas a las de la vid y fruto en forma de piña globosa, el cual, desecado, sirve para aromatizar y dar sabor amargo a la cerveza. Actualmente, se cultiva para la elaboración de la cerveza.<br /> Si bien su origen es probablemente asiático, el lúpulo es una planta muy común en el norte de Europa. Fue conocida como madera del diablo pues trepa a los árboles como cien demonios siempre en el sentido inverso a las agujas del reloj.<br /> Fueron los médicos árabes los que, hacia el Siglo X, pusieron de manifiesto sus propiedades calmantes y sus virtudes soporíferas. Sus frutos, en forma de cono, tienen un alto contenido de un aceite esencial con propiedades sedativas e hipnóticas que se utiliza a menudo terapéuticamente para tratar los estados ansiosos o depresivos. Esta planta contiene además sustancias con acciones similares a los estrógenos, así como activos precursores de la vitamina D.<br /> Uso tópico: para atenuar las arrugas. Castellano: Uva de Oregón<br /> Inglés: Oregon grape, mountain grape<br /> Francés: Mahonia à faux houx.<br /> Planta originaria de Estados Unidos, está muy extendida en los bosques de la costa norteamericana (zona Oeste). Pertenece a la familia de las herberidáceas del grupo de las ranunculáceas. Su altura oscila entre 1-2 metros. Sus tallos son leñosos, erectos y ramosos y su corteza es de color ceniza. Las flores son pequeñas y amarillas y se presentan en forma de racimos paniculados. Los frutos son unas bayas azules que contienen un zumo rojo y 2 a 5 semillas de color castaño.<br /> Historia:<br /> El uso de Mahonia proviene de los indios norteamericanos antes de la llegada de los colonos europeos. Utilizaban sus frutos en forma de mermelada para el escorbuto y de forma tópica para la curación de las heridas. También la utilizaban como tratamiento para problemas digestivos, como remedio antihemorrágico y contra enfermedades infeccionsas.<br /> En la medicina tradicional hindú, Mahonia, conocida como Rasanjana, se utiliza como tónico y febrífugo.<br /> Otros usos conocidos eran la confección de vinos y licores, y el tinte de textiles en amarillo. En la actualidad, se usa frecuentemente como ornamento de parques y jardines.<br /> Propiedades:<br /> Las cortezas, las raíces y las ramas de Mahonia Aquifolium contienen una serie de alcaloides. La berberina, uno de los principales alcaloides, ha demostrado en investigaciones experimentales, tanto características antiinflamatorias como antiproliferantes. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Mahonia Aquifolium ",
+    "id" : "97",
+    "imagen" : "mahonia",
+    "genero" : "Cannabináceas"
+  },
+  {
+    "contenido" : "Euskera: Ziguina<br /> Otros nombres: Malvavisco, Altea.<br /> Inglés: Mallow.<br /> genero: Malváceas.<br /><br /> Es una variedad del Malvavisco cultivado. Es una planta vivaz, de largos tallos rectos y cuyas flores, de color rosado o violáceo, se usan en infusiones laxantes y calmantes. Utilizada desde el Siglo VIII, la malva es ligeramente laxante y estimula la actividad interior del cuerpo. Por ello, es común su uso como coadyuvante en dietas de control de peso.<br /> Indicaciones: Bronquitis, Forúnculos, Resfriados, Tos, Trastornos intestinales.<br /> Propiedades: Astringente, Emoliente, Laxante, Pectoral, Sudorífica.<br /> Usos: Infusión, Decocción.<br /> Partes utilizadas: Flor, Hoja.<br /> Uso tópico: Se utiliza para curar las inflamaciones. ",
+    "usos" : "» Bronquitis » Forúnculos » Resfriados » Tos » Trastornos intestinales",
+    "titulo" : "Malva",
+    "id" : "98",
+    "imagen" : "malva1",
+    "genero" : "Malváceas"
+  },
+  {
+    "contenido" : "Euskera: Malba Zuria<br /> Otros nombres: Altea, Malva Blanca.<br /> Inglés: Marsh-mallow.<br /> genero: Malváceas.<br /><br /> Planta de rizoma grueso, hojas dentadas y flores blanco-rosáceas, cuya raiz se utiliza como emoliente. La etimología de la palabra Malvavisco en griego, significa Planta que cura. Es una planta alta, de hojas de color verde blanquecino y flores en forma de corazón de un color rosado malva. Procedente de Asia, se ha extendido por Europa en estado silvestre y crece en lugares frescos y húmedos.<br /> Indicaciones: Almorranas, Bronquitis, Resfriados, Tos.<br /> Propiedades: Emoliente, Pectoral.<br /> Usos: Infusión, Decocción<br /> Partes utilizadas: Raiz. ",
+    "usos" : "» Almorranas » Bronquitis » Resfriados » Tos",
+    "titulo" : "Malvavisco",
+    "id" : "99",
+    "imagen" : "malvavisco",
+    "genero" : "Malváceas"
+  },
+  {
+    "contenido" : "Euskera: Larranbiloa<br /> Otros nombres: Manzanilla de Aragón, Camomilla.<br /> Francés: Camomille.<br /> Inglés: Chamomile.<br /> genero: Compuestas.<br /><br /> La manzanilla es una planta herbácea aromática, cuyas flores, en cabezuelas solitarias con centro amarillo y circunferencia blanca, tienen propiedades medicinales. Crece en prados incultos y ribazos de zonas calcáreas de Europa. También se encuentra en algunas zonas templadas de Asia occidental y norte de Africa. Asimismo, se ha naturalizado en regiones templadas de América y Australia.<br /> Indicaciones: Almorranas, Erupciones de la piel, Indigestión, Inflamación encías, Insomnio, Nerviosismo, Trastornos menstruales.<br /> Propiedades: Antiespasmódica, Antimicrobiana, Antiséptica, Calmante, Carminativa, Colerética, Digestiva, Febrífuga, Sedante.<br /> Usos: Infusión.<br /> Partes utilizadas: Flor.<br /> Uso tópico: Para eliminar impurezas e inflamaciones. ",
+    "usos" : "» Almorranas » Erupciones de la piel » Indigestión » Inflamación encías » Insomnio » Nerviosismo » Trastornos menstruales",
+    "titulo" : "Manzanilla",
+    "id" : "100",
+    "imagen" : "manzanilla",
+    "genero" : "Compuestas"
+  },
+  {
+    "contenido" : "Otros nombres: Anthemis odorante, Manzanilla común, Camomilla romana.<br /> genero: Compuestas.<br /><br /> La manzanilla romana es una pequeña planta herbácea vivaz que crece en campos y herbazales de Europa occidental. Se podría pensar, por su nombre, que existe desde hace mucho tiempo, pero la Manzanilla Romana se cultiva desde hace apenas un siglo.<br /> Propiedades y aplicaciones: La manzanilla romana es a la vez aperitiva, tónica, estomacal y antiespasmódica. Cura los dolores de cabeza y las neuralgias.<br /> Para trastornos estomacales: Cocer las flores y tomarlas como infusión.<br /> Usos: Infusión.<br /> Partes utilizadas: Flor.<br /> Uso tópico: La decocción, utilizada en compresas sobre la piel y los párpados tiene efectos sedantes.<br /> En frío, aplicado externamente sobre los ojos, alivia la conjuntivitis. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Manzanilla Romana",
+    "id" : "101",
+    "imagen" : "manzanillaR",
+    "genero" : "Compuestas"
+  },
+  {
+    "contenido" : "genero: Labiadas.<br /><br /> Es una planta vivaz, aromática, de flores blancas, originaria del continente euroasiático y del norte de Africa, aunque actualmente, se encuentra en otras regiones templadas. En el antiguo Egipto, donde la llamaban semilla de Horus, se utilizaba en los rituales de sacrificio a los dioses. También la utilizaron Griegos, Romanos y más tarde, los Arabes quienes la valoraban por sus propiedades balsámicas.<br /> Usos y propiedades: <br /> Sus pequeñas flores blancas contienen lactonas diterpénicas, como la marrubiína, que confiere al marrubio interesantes propiedades para el aparato respiratorio. Fluidifica las secreciones de los bronquios, facilitando así la expectoración y, gracias a sus mucílagos suavizantes y anti-inflamatorios, puede utilizarse en el tratamiento de las inflamaciones de la garganta. Al ser un dilatador bronquial, es eficaz en caso de asma. Todas estas virtudes lo convierten en la planta del bienestar respiratorio por excelencia. Finalmente, conviene señalar su efecto sedante cardíaco, muy útil en aquellas personas que padecen alteraciones del ritmo cardíaco. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Marrubio",
+    "id" : "102",
+    "imagen" : "marrubio",
+    "genero" : "Labiadas"
+  },
+  {
+    "contenido" : "El mate es una planta originaria de Paraguay, Argentina y Brasil, cultivándose de forma amplia en todo el cono sur americano. Con ella se elabora la bebida nacional argentina.<br /> Sus hojas contienen cafeína, teobromina y teofilina que le confieren propiedades estimulantes y diuréticas. En medicina tradicional se emplea como tónico estimulante y diurético. Los últimos estudios han puesto de manifiesto su actividad supresora del apetito.<br /> Propiedades: Lipolítico, supresor del apetito, tónico estimulante. <br /> Partes utilizadas: Hojas. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Mate o Yerbamate",
+    "id" : "103",
+    "imagen" : "mate",
+    "genero" : ""
+  },
+  {
+    "contenido" : "Euskera: Mendaroa<br /> Otros nombres: Mayrana, Orégano de los Jardines.<br /> Francés: Marjolaine.<br /> Inglés: Marjoram.<br /> genero: Labiadas.<br /><br /> Planta herbácea de flores blancas olorosas, la mayorana es una variedad escogida y cultivada del Orégano silvestre. Tiene tallos rectos y frondosos, hojas de color verde oscuro, ovaladas y vellosas y flores en forma de conchas de un color rosado intenso.<br /> Indicaciones: Indigestión, Nerviosismo, Trastornos estomacales, Trastornos menstruales.<br /> Usos: Infusión.<br /> Partes utilizadas: Flor, Hoja.<br /> Uso tópico: La infusión, mezclada con el agua del baño, es tónica. ",
+    "usos" : "» Indigestión » Nerviosismo » Trastornos estomacales » Trastornos menstruales",
+    "titulo" : "Mayorana ó Mejorana",
+    "id" : "104",
+    "imagen" : "mayorana",
+    "genero" : "Labiadas"
+  },
+  {
+    "contenido" : "Esta planta herbácea odorífera, medicinal y forrajera, es muy común en toda Europa. De hojas trifoliadas, sus pequeñas flores amarillas se usan como emolientes. Antiguamente, era una tradición arraigada, poner meliloto entre las ropas para evitar la presencia de polillas.<br /> Usos y propiedades:<br /> En medicina tradicional, esta planta sólo se utilizaba como diurético y antiespasmódico. Sin embargo, la presencia de flavonoides le confiere propiedades anti-inflamatorias y antiedermatosas interesantes en los problemas asociados a la insuficiencia veno-linfática. Además, su alto contenido en cumarina, anticoagulantes ligero y fluidificante, permite su utilización en el tratamiento preventivo de las varices y riesgos de flebitis. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Meliloto",
+    "id" : "105",
+    "imagen" : "melilot",
+    "genero" : ""
+  },
+  {
+    "contenido" : "Otros nombres: Toronjil, Citronela, Té de Francia.<br /> genero: Labiadas.<br /><br /> Planta herbácea de la familia labiadas, de flores blancas cuyas sumidades así como las hojas, se usan como remedio tónico, antiespasmódico y digestivo. Originaria de Asia Menor, fué introducida en Europa durante la Edad Media. Se cultiva ampliamente en jardines por su agradable aroma y su belleza. El famoso Agua del Carmen, antigua fórmula de las Carmelitas que aún sigue utilizándose para el malestar digestivo, no es sino un alcohol de melisa.<br /> Usos y propiedades: <br /> La melisa tiene una acción sedante y beneficiosa sobre el nerviosismo y la ansiedad. Además ayuda a tratar las dolencias de origen nervioso como flatulencias, espasmos intestinales y digestivos, colitis, calambres de estómago y eructos. También ejerce una beneficiosa acción sobre los zumbidos de oídos, sensaciones auditivas verdaderamente desagradables.<br /> Partes utilizadas: Hoja.<br /> Uso tópico: Una infusión de melisa tras una comida refinada, es digestiva. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Melisa",
+    "id" : "106",
+    "imagen" : "toronjil",
+    "genero" : "Labiadas"
+  },
+  {
+    "contenido" : "Euskera: Mendafina<br /> Otros nombres: Menta Piperada.<br /> genero: Labiadas.<br /><br /> La menta es una planta aromática, de flores rosadas ó blancas, utilizada en infusión por sus propiedades digestivas y estimulantes, y para aromatizar licores, caramelos, etc. Hipócrates describió las propiedades de la menta que ya utilizaban los Japoneses y los Egipcios. Carlomagno difundió su cultivo. La menta se cultiva en las regiones templadas de Europa y de Asia y prefiere los suelos húmedos y frescos.<br /> La Menta piperada forma parte de las hierbabuenas olorosas silvestres. Resulta de la hibridación de varias especies silvestres, entre ellas, la Menta Viridis y la Menta Aquatiqua. Planta aromática, vivaz, de hojas grandes, ovaladas y dentelladas y de flores rosadas ó blancas. Es utilizada en infusión por sus propiedades digestivas y estimulantes y para aromatizar licores, caramelos, etc.<br /> Indicaciones: Indigestión, Neuralgias.<br /> Propiedades: Carminativa, Sedante, Tonificante.<br /> Usos: Infusión.<br /> Partes utilizadas: Hoja.<br /> Uso tópico: La infusión, mezclada con el agua del baño, sirve para fortalecer la piel y luchar contra las arrugas. ",
+    "usos" : "» Indigestión » Neuralgias",
+    "titulo" : "Menta Piperita",
+    "id" : "107",
+    "imagen" : "mentapiper",
+    "genero" : "Labiadas"
+  },
+  {
+    "contenido" : "La migranela es una planta perenne con pequeñas flores similares a las de la margarita. Está ampliamente extendida en los Balcanes desde donde se extendió a Europa. Tradicionalmente, se ha utilizado para aliviar la fiebre, de ahí su nombre inglés feverfew, así como los dolores de oído y menstruación.<br /> Usos y propiedades:<br /> Esta gran manzanilla, poco corriente, es el remedio específico de las jaquecas. Sus sumidades floridas contienen partenólido, al que la planta debe su actividad contra dicha afección. El partenólido bloquea la liberación de serotonina (causante de la migraña), de forma que previene de manera eficaz las crisis migrañosas. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Migranela",
+    "id" : "108",
+    "imagen" : "migranela",
+    "genero" : ""
+  },
+  {
+    "contenido" : "Euskera: Milerria<br /> genero: compuestas.<br /><br /> Planta de hojas muy divididas, con capítulos de pequeñas flores blancas ó rosadas agrupadas en corimbos, y fruto seco. Es muy común en España y el cocimiento de sus hojas se ha usado como tónico y astringente.<br /> Indicaciones: Almorranas, Heridas, Trastornos menstruales.<br /> Propiedades: Cicatrizante, Digestiva, Emenagoga, Hemostática.<br /> Usos: Decocción, Infusión.<br /> Partes utilizadas: Flor, Hoja. ",
+    "usos" : "» Almorranas » Heridas » Trastornos menstruales",
+    "titulo" : "Milenrama",
+    "id" : "109",
+    "imagen" : "milenrama",
+    "genero" : "compuestas"
+  },
+  {
+    "contenido" : "Francés\/Inglés: Mimosa.<br /> genero: Mimosáceas.<br /><br /> Planta arbustiva ó arbórea de hojas pequeñas y flores amarillas olorosas, agrupadas en cabezuelas, y muy apreciada en jardinería.<br /> La mimosa tenuiflora es un árbol de entre 6 y 8 metros de altura que crece a una cierta altitud en el sudeste de México. Según la tradición Maya, el polvo de la corteza, que aún se llama Tepzecohuite, tiene propiedades mágicas, ya que cicatriza las heridas de los hombres y de los animales. Estas propiedades terapéuticas volvieron a ser utilizadas cuando, a raíz de un incendio y de un terremoto, la Cruz Roja prescribió la mimosa para curar a las víctimas. Los resultados fueron sorprendentes gracias a su efecto analgésico y a que, en menos de 3 meses, cicatrizaron las heridas y devolvieron la pigmentación natural a la piel de los pacientes. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Mimosa",
+    "id" : "110",
+    "imagen" : "mimosa",
+    "genero" : "Mimosáceas"
+  },
+  {
+    "contenido" : "Francés: Mûre.<br /> Inglés: Blackberry.<br /> Fruto de la morera, planta arbórea perteneciente a la familia moráceas y cuya hoja alimenta el gusano de seda.<br /> En Japón, la morera crece naturalmente, aunque también se cultiva a menudo como alimento del gusano de seda. Existen más de diez especies de moreras. Morus nigra es una especie común en las regiones templadas del hemisferio norte. De la corteza seca de sus raíces se extraen los fenilflavones, unas sustancias que fueron descritas en las farmacopeas china y japonesa, y que son hoy en día muy utilizadas en cosmetología. Los fenilflavones son agentes decolorantes eficaces capaces de disminuir la aparición de las manchas oscuras, además poseen propiedades antiinflamatorias e hidratantes. genero: Cariofiláceas.<br /><br /> Planta herbácea, tóxica, de hojas lineares y flores azuladas, que crece en las zonas donde se cultivan cereales, en particular, el trigo.<br /> La neguilla es una planta muy recolectada debido a sus granos de fuerte sabor, parecido al de la pimienta. De ellos se extrae un aceite, remedio apreciado por los egipcios y conocido por sus beneficios como el aceite de los Faraones. De estos mismos granos se extraen proteínas hidrófilas, llamadas proteínas de estrés, capaces de ayudar a la piel a luchar contra el estrés provocador de la formación de radicales libres. Francés: Olivier.<br /> Inglés: Olive-tree.<br /> genero: Oleáceas.<br /><br /> Arbol de hojas persistentes y flores menudas, cuya fruta es la aceituna, de sabor muy amargo , color verde amarillento, a veces morado, pulpa muy oleosa cuando llega a su completa madurez y con un hueso muy duro que encierra la semilla. <br /> Planta de los países cálidos, probablemente originario de Egipto ó de Asia Menor, el olivo se cultivó luego en Grecia y Europa occidental y en la actualidad, es uno de los elementos característicos de la vegetación mediterránea. Ha sido utilizado desde hace muchos años por su acción terapéutica. En la Antigüedad fue considerado un árbol sagrado. Los griegos y los romanos emplearon sus hojas y su aceite en la elaboración de un ungüento para los atletas y los luchadores. Sus hojas poseen una acción cicatrizante y una acción tónica cutánea que se utiliza con frecuencia en cosmetología. Del olivo se extrae el perhidroescualeno vegetal, un análogo de los lípidos cutáneos, que ejerce una eficaz acción hidratante.<br /> Util en la prevención de la arteriosclerosis y las enfermedades coronarias, la hoja del olivo permite igualmente tratar los trastornos asociados a la hipertensión arterial, como cefaleas, vértigos, zumbidos de oídos, etc.<br /> En infusión, dejar reposar la hierba 10 minutos antes de tomar. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Olivo",
+    "id" : "111",
+    "imagen" : "olivo",
+    "genero" : "Oleáceas"
+  },
+  {
+    "contenido" : "Inglés: Evening Primrose, Fever Plant.<br /> genero: Onagráceas.<br /><br /> La onagra, también conocida como prímula por confusión con el inglés primrose, es una planta con llamativas flores amarillas de forma de rosas, y cuya raiz blanca, una vez seca, despide un olor parecido al del vino. Crece en las regiones templadas. Procede de América del Norte y se introdujo en Europa en el Siglo XVII con fines ornamentales. Como en el caso de otras plantas forrajeras, la onagra sirvió como alimento a los campesinos de Europa en las épocas de hambre de los siglos XVIII y XIX.<br /> Su aceite es extremadamente rico en ácidos grasos esenciales (ácido gamma linoléico). Tomado durante la segunda mitad del ciclo, disminuye radicalmente el síndrome premenstrual, actuando sobre todas sus manifestaciones: depresión, irritabilidad, tensión de mamas, dolores abdominales, retención de agua y cefaleas.<br /> Propiedades: Antiinflamatoria, antioxidante.<br /> Usos: Trastornos de la menopausia y síndrome premenstrual.<br /> Partes utilizadas: Aceite extraído de la semilla. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Onagra",
+    "id" : "112",
+    "imagen" : "onagra_primrose",
+    "genero" : "Onagráceas"
+  },
+  {
+    "contenido" : "Inglés: Wild marjoram.<br /> genero: Labiadas.<br /><br /> Planta herbácea aromática, de hojas ovales, flores de corola bilabiada, de color rosa purpúreo ó blanquecinas, cuyas hojas y flores se emplean como condimento. Se cría en ribazos, prados, matorrales secos, etc. de toda Europa.<br /> Uso tópico como planta aromática:<br /> Es útil en multitud de tareas domésticas. Se pueden hacer limpiadores y popurris aromáticos. Hacer una guirnalda con ramas de orégano fresco. Para dar color, utilizar espigas de lavanda ó manzanilla.<br /> Propiedades: Tónica, Digestiva.<br /> Partes utilizadas: Flores, Hojas. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Orégano",
+    "id" : "113",
+    "imagen" : "oregano",
+    "genero" : "Labiadas"
+  },
+  {
+    "contenido" : "Francés: Orchidée.<br /> Inglés: Orchid.<br /> genero: Orquidáceas.<br /><br /> El nombre de esta flor está envuelto en misterio y evoca la belleza, lo exótico y el lujo. La orquídea es originaria de China y se cultiva desde tiempos remotos; ha sido considerada una de las reinas de las flores. La orquídea fue transplantada de Oriente a Asia Menor, en donde se convirtió en un ingrediente esencial en la preparación de cremas e infusiones emolientes.<br /> La familia orquídeas comprende más de 15.000 especies. Muchas de ellas son cosmopolitas, siendo las más apreciadas, las tropicales cuya fama como plantas ornamentales empezó a difundirse en Europa durante el Siglo XVIII. Estas últimas se encuentran sobre todo en los bosques húmedos. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Orquídea Azul",
+    "id" : "114",
+    "imagen" : "orquidea",
+    "genero" : "Orquidáceas"
+  },
+  {
+    "contenido" : "Francés: Ortie.<br /> Inglés: Nettle.<br /> genero: Labiadas.<br /><br /> La Ortiga Blanca, también llamada Ortiga Muerta porque recuerda a la ortiga mayor, no es sin embargo urticante. De la familia labiadas, crece frecuentemente en el borde de los caminos y en los bosques y en primavera se cubre de flores blancas muy apreciadas por las abejas...<br /> Se utiliza desde siempre en decocción por sus propiedades astringentes y cicatrizantes. El azufre que contiene es el que le confiere virtudes antimicrobianas, antiinflamatorias y antiseborréicas.<br /> Gracias a sus propiedades depurativas, permite una buena eliminación renal y digestiva del ácido úrico, por lo que se aconseja en el tratamiento de la gota. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Ortiga Blanca",
+    "id" : "115",
+    "imagen" : "ortigamuerta",
+    "genero" : "Labiadas"
+  },
+  {
+    "contenido" : "Euskera: Asuna<br /> Francés: Grande ortie.<br /> Inglés: Nettle, Big String Nettle, Common Nettle, Stinging Nettle, Devils Leaf.<br /> Planta herbácea perenne, de flores poco visibles, cubierta de pelos cuya base contiene un líquido irritante que penetra bajo la piel al simple contacto de sus puntas. Esta planta vivaz, abundante en toda Europa y América del Norte, posee inmensas propiedades terapéuticas apreciadas desde hace mucho tiempo por la medicina tradicional. Es rica en vitaminas, minerales y oligoelementos. Es también conocida por sus propiedades tónicas y antiasténicas. Indicaciones: Dermatosis, Diabetes, Falta de apetito.<br /> Propiedades: Diurética, Hemostática, Hipoglucemiante, Nutritiva, Vasoconstrictora.<br /> Usos: Decocción, Infusión, Maceración.<br /> Partes utilizadas: Hoja. ",
+    "usos" : "» Dermatosis » Diabetes » Falta de apetito",
+    "titulo" : "Ortiga Mayor",
+    "id" : "116",
+    "imagen" : "ortigamayor",
+    "genero" : ""
+  },
+  {
+    "contenido" : "El ortosifón es originario del Sudeste Asiático (Birmania, Indonesia y Malasia). La droga procede fundamentalmente de Java, de ahí que también sea conocida como Té de Java. Es un potente diurético que favorece las funciones de eliminación del organismo, tanto a nivel renal como hepático, favoreciendo la eliminación de cloruros y de sustancias de desecho nitrogenados. Pero además, gracias a su riqueza en flavonoides, estimula la eliminación de las grasas de las células que las contienen. <br /> Sus cualidades diuréticas son muy útiles en las dietas de control de peso, siendo especialmente eficaces en asociación con otras plantas de efecto lipolítico, como es el caso del Té verde, afamado lipolítico.<br /> Usos: Funciones de eliminación renales y digestivas. Pérdida de peso en regímenes adelgazantes.<br /> Partes utilizadas: Hoja. Inglés: Passion-flower.<br /> genero: Pasifloráceas.<br /><br /> La pasiflora, llamada también Flor de la Pasión ó Pasionaria, es una planta herbácea ó leñosa, de flores grandes, olorosas, brillantes, de color rosado, rojo ó purpúreo y agrupadas en pedúnculos unifloros que se caracterizan por la concrescencia de la base del cáliz y de la corola, que forma una copa de cuyos bordes parten los pétalos. Procedente de América tropical, fué cultivada por los Aztecas. Su nombre se debe a su descubrimiento por parte de los misioneros españoles quienes vieron en su flor las marcas de la Pasión de Cristo. Gracias a su exuberancia y a la belleza de sus flores, en España se cultiva con fines decorativos, por lo que es muy habitual encontrarla cubriendo muros y vallas.<br /> La parte aérea de la pasiflora posee flavonoides y alcaloides que actúan beneficiosamente en caso de problemas del sueño. Es un magnífico sedante, eficaz en los casos de insomnio y ansiedad. El sueño que produce es natural, sin provocar hábito ni dependencia. Puede asociarse a otras plantas de efecto sedante como la valeriana.<br /> Usos: Insomnio, Nerviosismo. Angustia, Ansiedad, Emotividad, Estrés.<br /> Partes utilizadas: Parte aérea. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Pasiflora",
+    "id" : "117",
+    "imagen" : "pasiflora",
+    "genero" : "Pasifloráceas"
+  },
+  {
+    "contenido" : "Francés: Pomme de terre.<br /> Inglés: Potato.<br /> genero: Solanáceas.<br /><br /> Planta de flores blancas o moradas y cuyas raíces llevan en sus extremos gruesos tubérculos carnosos, muy feculentos y alimenticios. Oriunda de los Andes peruanos y bolivianos y ya cultivada por los Incas, la patata fué introducida en Europa por los españoles en la segunda mitad del Siglo XVI. Destinada en un principio, a la alimentación del ganado, el hombre europeo empezó a consumirla a raíz de las crisis agrícolas de fines del Siglo XVIII. A mediados del Siglo XIX era ya, después de los cereales, el principal producto de la dieta alimenticia de las clases populares, tanto en Europa como en América.<br /> Gracias a su acción alcalina, es muy eficaz en las infecciones renales. Tomada cruda ó rallada, es un remedio muy eficaz para cortar las afecciones y como calmante de los dolores de la zona afectada..<br /> Partes utilizadas: tubérculos. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Patata",
+    "id" : "118",
+    "imagen" : "patata",
+    "genero" : "Solanáceas"
+  },
+  {
+    "contenido" : "Francés: Pensée.<br /> Inglés: Pansy.<br /> genero: Violáceas.<br /><br /> Planta de hojas variables , cordiformes o lancioladas, flores tricolores, mayoritariamente violetas, con los pétalos laterales muy cerca de los superiores. Crece en campos de cultivo y prados de toda Europa. Existen muchas variedades de jardín, con flores grandes y diversamente coloreadas.<br /> Las propiedades medicinales del pensamiento son bien conocidas desde hace siglos. Esta planta de la familia de las violetas, es el gran remedio de numerosas enfermedades de la piel.<br /> Usos y propiedades:<br /> Se utiliza la parte aérea, rica en taninos, mucílagos, flavonoides y vitamina E, compuestos que actúan sinérgicamente para tratar enfermedades de la piel como el acné, el eczema o la psoriasis. Las propiedades astringentes de los taninos permiten frenar la secreción sebácea de la piel. La acción depurativa de esta planta se traduce en un aumento de la eliminación renal y hepática de toxinas y se ve potenciada por la actividad de los mucílagos de propiedades laxantes.<br /> Uso tópico: infusiones de pensamiento para combatir el acné. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Pensamiento",
+    "id" : "119",
+    "imagen" : "Pansies",
+    "genero" : "Violáceas"
+  },
+  {
+    "contenido" : "Francés: Concombre.<br /> Inglés: Cucumber.<br /> genero: Cucurbitáceas.<br /><br /> Planta de flores amarillas y fruto pulposo, cilíndrico, comestible, con cáscara verde amarillenta, muy común en España.<br /> El pepino se conoce en la India y en Egipto desde hace 4000 años. Desde tiempos inmemoriales las mujeres se han cubierto el rostro con finas rebanadas de pepino para hidratar y dar brillo a la piel.<br /> La pulpa del pepino es muy apreciada en cosmetología por su contenido en vitamina C, de ahí que se incluya en los productos de tratamiento por sus propiedades antirradicales libres y antienvejecimiento. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Pepino",
+    "id" : "120",
+    "imagen" : "pepino",
+    "genero" : "Cucurbitáceas"
+  },
+  {
+    "contenido" : "Francés: Persil.<br /> Inglés: Parsley.<br /> genero: Umbelíferas.<br /><br /> El perejil es una planta herbácea aromática bianual que se cultiva en muchos países por sus propiedades como condimento. Aunque es benéfica, es una planta muy apreciada por los hechiceros y temida por los jardineros. Una leyenda cuenta que aquel que siembre el perejil corre el riesgo de morir en menos de un año. En el sur de Francia aún se cree que si una mujer embarazada recoge el perejil ocasiona la muerte de la planta. Al margen de estas supersticiones, el perejil contiene propiedades útiles para el equilibrio mineral y vitamínico del cuerpo, ya que es muy rico en vitaminas C y A, así como en hierro, calcio y manganeso.<br /> Un curatodo. Va bien para dolencias del riñón, elimina toxinas y mejora el mal aliento. Fresco ó seco, sirve para aderezar muchas comidas.<br /> En cosmetología el perejil se utiliza a menudo para tonificar la epidermis y para aclarar la tez.<br /> Uso tópico contra las manchas de la piel: ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Perejil",
+    "id" : "121",
+    "imagen" : "perejil",
+    "genero" : "Umbelíferas"
+  },
+  {
+    "contenido" : "Euskera: Zazpi Hostoa<br /> Nombre común o vulgar: Pie de león, Alquemila, Alchemila, Alchimilla, Alquimila, Pata de León<br /> genero: Rosáceas.<br /><br /> Planta de hojas lobuladas parecidas al pié del león, y flores en corimbos terminales.<br /> Propiedades: Astringente.<br /> Uso interno: Diarrea, varices, hemorroides, flebitis, metrorragia, hipertensión.<br /> Uso externo: Hemorragias, gingivitis, prurito vulvar, heridas, parodontopatías.<br /> Contraindicaciones\/precauciones: Gastritis, ulcus, cardiopatias.<br /> Usos: Decocción.<br />Partes utilizadas: Raiz. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Pie de León",
+    "id" : "122",
+    "imagen" : "pieleon",
+    "genero" : "Rosáceas"
+  },
+  {
+    "contenido" : "Euskera: Ler Zuria<br /> Otros nombres: Pino silvestre, Pino de Siberia, Pino de Rusia.<br /> Francés: pin.<br /> Inglés: pine.<br /> genero: Abietáceas.<br /><br /> Pino de ramas gruesas, piñas apretadas y hojas cortas. Se extiende por toda Europa, desde la llanura hasta el límite alpino de los bosques. Resiste tanto los veranos secos y cálidos en los límites de las tierras esteparias como las heladas invernales de Siberia. Indicaciones: Aparato respiratorio, Neuralgias, Resfriados, Sinusitis.<br /> Propiedades: Antiséptica, Tonificante.<br /> Usos: Decocción, Infusión-Vahos.<br /> Partes utilizadas: Yema.<br /> Las yemas de pino silvestre emanan un agradable y característico olor debido a su alto contenido en un aceite esencial que le confiere excelentes propiedades para tratar las afecciones respiratorias. ",
+    "usos" : "» Aparato respiratorio » Neuralgias » Resfriados » Sinusitis",
+    "titulo" : "Pino Albar",
+    "id" : "123",
+    "imagen" : "pino3",
+    "genero" : "Abietáceas"
+  },
+  {
+    "contenido" : "Esta planta es originaria del Norte de la India, Irán, Afganistán y Egipto. Actualmente se cultiva de forma extensiva en India y Pakistán.<br /> Usos y propiedades:<br /> Se utiliza la cubierta de la semilla ó tegumento, rico en mucílagos que junto con el agua, forman en el estómago un gel no asimilable por el organismo. Al ser poco irritantes, los tegumentos facilitan un tránsito intestinal suave protegiendo la mucosa digestiva en caso de colitis. El plantago, por su efecto fibra proporciona un efecto saciante, reduce la absorción de alimentos en el intestino y reeduca el tránsito intestinal. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Plantago",
+    "id" : "124",
+    "imagen" : "plantago",
+    "genero" : ""
+  },
+  {
+    "contenido" : "Esta planta es originaria de las zonas tropicales y ecuatoriales del Océano Índico y del sudeste asiático, en donde su flor es símbolo de frescor y de la belleza de las mujeres. De ahí que se utilice para elaborar collares con aromas delicados y para decorar las cabelleras.<br /> Los indígenas utilizan sus aceites esenciales, ricos en principios activos purificantes e hidratantes, para limpiar la piel con suavidad. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Plumeria Alba",
+    "id" : "125",
+    "imagen" : "plumeria1",
+    "genero" : ""
+  },
+  {
+    "contenido" : "Francés: Radis.<br /> Inglés: Radish.<br /> genero: Crucíferas.<br /><br /> Esta planta hortícola comestible, de origen desconocido, es apreciada desde hace milenios por sus propiedades medicinales y digestivas. Su cultivo se remonta al Egipto de los Faraones. Su raiz, recolectada al final del verano, posee una envoltura negra a la que debe su nombre.<br /> Usos y propiedades:<br /> El rábano contiene compuestos orgánicos azufrados que favorecen el drenaje del hígado y la vesícula biliar, y por ende, la eliminación de toxinas y residuos. Por ello, está aconsejado para aligerar los órganos, víctimas de las modificaciones alimentarias asociadas a los cambios de estación ó tras los excesos alimentarios.<br /> Sus propiedades coleréticas (estimulantes de la secreción biliar) y colagogas (facilitan la eliminación de la bilis), pueden utilizarse para aliviar los problemas hepáticos y biliares (insuficiencia hepática, cólicos hepáticos, migrañas de origen hepático, alergias digestivas).<br /> Partes utilizadas: Raiz. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Rábano Negro",
+    "id" : "126",
+    "imagen" : "rabano",
+    "genero" : "Crucíferas"
+  },
+  {
+    "contenido" : "Euskera: Gozoeroa<br /> Francés: Réglisse.<br /> Inglés: Licorice.<br /> Planta leguminosa de flores azuladas y rizomas largos, cilíndricos, cuyo jugo, dulce y mucilaginoso, es pectoral y emoliente.<br /> El extracto de regaliz es conocido como blanqueador de la piel y sobre todo por sus potentes cualidades antioxidantes. Se emplea en cosmética por su capacidad para calmar las pieles más sensibles y delicadas.<br /> Indicaciones: Resfriados, Ulcera estomacal.<br /> Propiedades: Antiespasmódica, Depurativa, Expectorante, Pectoral.<br /> Usos: Decocción.<br /> Partes utilizadas: Raiz. ",
+    "usos" : "» Resfriados » Ulcera estomacal",
+    "titulo" : "Regaliz",
+    "id" : "127",
+    "imagen" : "regaliz",
+    "genero" : ""
+  },
+  {
+    "contenido" : "Hierba rosácea de flores blancas o rosáceas cuya raiz es tónica y febrífuga. La Reina de los Prados es abundante en praderas pantanosas y a lo largo de los cursos de agua. Aunque era bien conocida por los botánicos medievales, no se descubrieron sus extraordinarias propiedades terapéuticas hasta el Renacimiento.<br /> Usos y propiedades:<br /> Su acción saludable reside en su contenido en flavonoides y sobre todo, en derivados salicilados, precursores de la aspirina.<br /> Es antiinflamatoria y desinfiltrante, por lo que se recomienda en caso de celulitis dolorosa. Además, ejerce una actividad analgésica muy útil en el tratamiento de las manifestaciones articulares dolorosas (reumatismos, artrosis). También se han demostrado sus propiedades vasodilatadoras, cardiotónicas, diuréticas y antipiréticas. Esta última aplicación resulta de interés especial en el alivio de la sintomatología de las afecciones gripales. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Reina de los Prados",
+    "id" : "128",
+    "imagen" : "reinaprados",
+    "genero" : ""
+  },
+  {
+    "contenido" : "Francés: Betterave.<br /> Inglés: Beetroot.<br /> Planta de flores verdosas y raiz grande, fusiforme, comestible y generalmente roja. La remolacha de mesa (también conocida como remolacha de huerto, nabo de sangre o remolacha roja) es un vegetal popular en los huertos de los Estados Unidos. Las hojas (cuello) de la remolacha son una fuente excelente de vitamina A y las raíces (remolachas) son una buena fuente de vitamina C. Las hojas se cocinan y son servidas frescas como verduras.<br /> Los nutrientes que contiene ayudan a fortalecer y renovar los tejidos, eliminan las sustancias nocivas que entorpecen las funciones cerebrales, aportan brillo y elasticidad a la piel. La remolacha capta de la tierra donde se cultiva el silicio, un nutriente que fortalece la piel, la pared vascular y los huesos, y a la vez, consigue eliminar los metales nocivos - como el aluminio - de nuestro cerebro. Es rica en ácido fólico: Esta vitamina ayuda a mantener la unión de los ácidos nucléicos en las células.<br /> Contiene potasio que depura y favorece la eliminación de los líquidos, y fibra que regula el tránsito intestinal, evitando el estreñimiento.<br /> Partes utilizadas: Raiz. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Remolacha",
+    "id" : "129",
+    "imagen" : "remolacha",
+    "genero" : ""
+  },
+  {
+    "contenido" : "Francés: Genêt.<br /> Inglés: Broom.<br /> La retama o hiniesta, arbusto de flores amarillas, es común en España. La retama se reconoce muy fácilmente por sus numerosas ramas verdes, erguidas y alargadas, y por sus flores amarillas, escasas y pequeñas.<br /> Ha sido considerada como un remedio básico por sus propiedades drenantes. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Retama",
+    "id" : "130",
+    "imagen" : "retama",
+    "genero" : ""
+  },
+  {
+    "contenido" : "Euskera: Ametz Ilaundia<br /> Francés: Chêne.<br /> Inglés: Oak.<br /> genero: Fagáceas.<br /><br /> Arbol de gran tamaño, caducifolio, de hojas generalmente dentadas o lobuladas, y con fruto en glande, común en los bosques de Europa. Los robles son árboles de copa ancha, muy longevos, que crecen en climas más fríos y húmedos que las especies de hoja perenne del mismo género (Quercus). Indicaciones: Blenorragia, Disentería, Fisuras anales, Gleucorrea, Hemorragias, Heridas, Sabañones, Ulceras.<br /> Propiedades: Astringente, Cicatrizante.<br /> Usos: Decocción.<br /> Partes utilizadas: Corteza. ",
+    "usos" : "» Blenorragia » Disentería » Fisuras anales » Gleucorrea » Hemorragias » Heridas » Sabañones » Ulceras",
+    "titulo" : "Roble",
+    "id" : "131",
+    "imagen" : "roble",
+    "genero" : "Fagáceas"
+  },
+  {
+    "contenido" : "Euskera: Erromeroa<br /> Francés: Romarin.<br /> Inglés: Rosemary.<br /> genero: Labiadas.<br /><br /> El romero ó Rosmarinus officinalis, es un arbusto aromático, de flores liliáceas ó blanquecinas, empleado en perfumería, presente en la mayoría de los jardines. Sus hojas, duras y aciculares, desprenden un intenso aroma debido a su alto contenido en esencias y aceites volátiles. El tallo se vuelve leñoso y duro en su segundo año.<br /> El extracto de romero es un ingrediente utilizado en numerosas fórmulas cosméticas destinadas a prevenir y corregir la flaccidez de la piel. Además, puede hallarse en tratamientos elaborados para solucionar los signos de fatiga en el rostro.<br /> Indicaciones: Bronquitis, Espasmos musculares, Heridas, Nerviosismo, Resfriados, Vesícula biliar.<br /> Propiedades: Antiespasmódica, Cicatrizante, Diurética, Estimulante biliar, Tonificante.<br /> Usos: Infusión.<br /> Partes utilizadas: Flor, Hoja.<br /> Uso tópico como planta aromática. ",
+    "usos" : "» Bronquitis » Espasmos musculares » Heridas » Nerviosismo » Resfriados » Vesícula biliar",
+    "titulo" : "Romero",
+    "id" : "132",
+    "imagen" : "romero1",
+    "genero" : "Labiadas"
+  },
+  {
+    "contenido" : "Arbusto originario de la región de Cedarberg en Sudáfrica, posee unas cualidades saludables que ya se han popularizado en el resto de Europa. Produce un té rico en minerales y antioxidantes.<br /> Propiedades: Relajante, Digestiva. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Rooibos",
+    "id" : "133",
+    "imagen" : "rooibos",
+    "genero" : ""
+  },
+  {
+    "contenido" : "Euskera: Astalarrosa<br /> genero: Rosáceas.<br /><br /> Arbusto espinoso de hojas pinnadas, flores blancas ó rosadas, inodoras, y fruto globular, de color escarlata, llamado popularmente escaramujo. Crece en matorrales, setos, bordes de caminos y bosques de toda Europa.<br /> Indicaciones: Avitaminosis, Diarrea, Lombrices.<br /> Propiedades: Antidiarreica, Astringente, Vermífuga, Vitamínica.<br /> Usos: Cruda, Decocción, Maceración.<br /> Partes utilizadas: Flor, Fruto, Hoja, Raiz.<br /> Uso tópico para labios resecos. ",
+    "usos" : "» Avitaminosis » Diarrea » Lombrices",
+    "titulo" : "Rosal Silvestre",
+    "id" : "134",
+    "imagen" : "rosa",
+    "genero" : "Rosáceas"
+  },
+  {
+    "contenido" : "Euskera: Bortusaina<br /> Francés: Rue.<br /> genero: Rutáceas.<br /><br /> Planta herbácea de flores amarillas verdosas, agrupadas en ramilletes flojos y ramificados y de cuyas hojas se extrae un producto utilizado en perfumería y medicina. Originaria de los países mediterráneos orientales y Asia menor, fué cultivada en la época romana por sus propiedades medicinales.<br /> Indicaciones: Hemorragias, Trastornos menstruales.<br /> Propiedades: Abortiva, Antiespasmódica, Astringente, Emenagoga, Sudorífica, Vermífuga.<br /> Usos: Infusión.<br /> Partes utilizadas: Hoja. ",
+    "usos" : "» Hemorragias » Trastornos menstruales",
+    "titulo" : "Ruda común",
+    "id" : "135",
+    "imagen" : "ruda",
+    "genero" : "Rutáceas"
+  },
+  {
+    "contenido" : " Euskera: Sobia<br /> Francés: Sauge.<br /> Inglés: Sage.<br /> genero: Labiadas.<br /><br /> La salvia, corriente en Europa meridional, es un arbusto que crece en matas densas, de flores violáceas, blancas ó amarillas y tallos ramosos. Sus hojas, de olor aromático y sabor amargo, se usan en cocimiento como tónico y estomacal. Elevada al rango de planta sagrada en la Grecia y la Roma antiguas, la salvia, del latin salvare: salvar, se ha considerado como un remedio básico con múltiples propiedades.<br /> Era la hierba sacra de los romanos, quienes la consideraban como una panacea, buena para todo. La hoja de salvia es rica en flavonoides y en un aceite esencial que le confiere una aromática fragancia. Ejerce una acción colerética (aumenta la secreción biliar), antiespasmódica y relajante en los músculos del estómago y el intestino. El aceite esencial también es antiséptico. Gracias a estas propiedades presenta una gran eficacia en los trastornos digestivos (fermentaciones intestinales, vientre hinchado, espasmos gástricos e intestinales, eructos, digestión lenta y difícil).<br /> Gracias a la presencia de fitoestrógenos, alivia las dolencias típicamente femeninas. En caso de reglas irregulares, poco abundantes o dolorosas, ayuda a provocar y regularizar la menstruación así como atenuar sensiblemente los trastornos de la menopausia, especialmente los sofocos. El aceite esencial actúa sobre las glándulas sudoríparas y disminuye la transpiración excesiva que se produce especialmente, durante la menopausia.<br /> Indicaciones: Astenia, Diarrea, Dolor de cabeza, Edema, Erupciones de la piel, Espasmos musculares, Gleucorrea, Indigestión, Reumatismo, Secreción Láctea, Tifus, Vómitos.<br /> Propiedades: Antiespasmódica, Antiséptica, Cicatrizante, Digestiva, Diurética, Emoliente, Febrífuga, Hipoglucemiante, Tonificante.<br /> Usos: Infusión.<br /> Partes utilizadas: Flor, Hoja. ",
+    "usos" : "» Astenia » Diarrea » Dolor de cabeza » Edema » Erupciones de la piel » Espasmos musculares » Gleucorrea » Indigestión » ",
+    "titulo" : "Salvia",
+    "id" : "136",
+    "imagen" : "salvia1",
+    "genero" : "Labiadas"
+  },
+  {
+    "contenido" : "Inglés: Sandalwood.<br /> genero: Papilionáceas.<br /><br /> El sándalo es un pequeño árbol originario de la India, muy semejante al nogal, de fruto parecido a la cereza y madera amarillenta y olorosa utilizada en perfumería. La medicina tradicional china lo utilizaba para curar los dolores de estómago y las náuseas. El aceite extraído del sándalo se utiliza con mucha frecuencia en cosmetología por su agradable fragancia, además está presente en la composición de los perfumes orientales gracias a su fragancia cálida y especiada. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Sándalo",
+    "id" : "137",
+    "imagen" : "sandalo",
+    "genero" : "Papilionáceas"
+  },
+  {
+    "contenido" : "Francés: Saule.<br /> Inglés: Willow.<br /> genero: Salicáceas.<br /><br /> El sauce ó salce es un árbol ó arbusto de hojas lanceoladas, que crece junto al agua. El sauce común tiene las ramas flexibles y largas y las hojas dentadas. El sauce blanco ó cabruno presenta hojas elípticas. El sauce llorón tiene las ramas muy largas, flexibles y colgantes.<br /> En la Antigüedad, los hombres utilizaban las plantas guiándose de una especie de intuición y atribuían propiedades a las plantas, en función de su forma y del sitio donde crecían. Así, los sauces, al crecer en suelos muy húmedos, debían curar los resfriados, la fiebre, la gripe y los dolores articulares. Los estudios realizados sobre la composición de la corteza han revelado que estas indicaciones empíricas, curiosamente, no estaban desencaminadas.<br /> Usos y propiedades:<br /> La corteza del sauce posee derivados salicilados, entre ellos, el salicósido, que tiene propiedades similares a las de la aspirina, aunque sin sus efectos no deseados. Estos derivados salicilados son también antiinflamatorios y antipiréticos, es decir, que bajan la fiebre. El sauce está indicado para aliviar los síntomas de los resfriados, gripes y los dolores en general, especialmente los articulares.<br /> Partes utilizadas: Corteza. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Sauce",
+    "id" : "138",
+    "imagen" : "sauce",
+    "genero" : "Salicáceas"
+  },
+  {
+    "contenido" : "Euskera: Intsusa<br /> Otros nombres: Sabuco, Sabugo, Camillero.<br /> Francés: Sureau.<br /> Inglés: Elder ó Aldertree.<br /> genero: Caprifoliáceas.<br /><br /> El sauco negro es un arbusto de tronco corto de unos 4 metros de alto, de corteza rugosa y médula abundante, hojas compuestas y flores blancas, de olor fuerte, que forman unos ramilletes que producen, más tarde, unos racimos de pequeñas bayas de color negro violáceo. Corriente en toda Europa, crece de modo espontáneo en los setos y las lindes de los bosques.<br /> Indicaciones: Anginas, Erisipela, Hidropesía, Inflamación encías, Tos, Viruela.<br /> Propiedades: Antiespasmódica, Depurativa, Diurética, Purgante, Sudorífica.<br /> Usos: Infusión, Decocción.<br /> Partes utilizadas: Flor. ",
+    "usos" : "» Anginas » Erisipela » Hidropesía » Inflamación encías » Tos » Viruela",
+    "titulo" : "Sauco",
+    "id" : "139",
+    "imagen" : "sauco1",
+    "genero" : "Caprifoliáceas"
+  },
+  {
+    "contenido" : "Francés: Palmier nain.<br /> Inglés: American Dwarf Palm Tree, Sabal, Dwarf Palm, Saw Palmeto.<br /> genero: Arecáceas.<br /><br /> Originaria del Sudeste de los Estados Unidos, las bayas de serenoa ó palmera enana, son muy ricas en fitosteroles y ácidos grasos libres. Ha demostrado ser uno de los mejores activos vegetales para controlar la secreción de sebo. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Serenoa",
+    "id" : "140",
+    "imagen" : "serenoa",
+    "genero" : "Arecáceas"
+  },
+  {
+    "contenido" : "Euskera: Sarpoila<br /> Otros nombres: Tomillo silvestre, Serpillo, Hierba Luna.<br /> Francés: Serpolet.<br /> genero: Labiadas.<br /><br /> Planta aromática parecida al tomillo, el serpol es una pequeña planta vivaz que crece en matas frondosas bajas con ramos tendidos y hojas planas y obtusas. Corriente en Europa meridional, se encuentra en los montes hasta una altitud de 2500 metros, llegando a formar, a veces, un tupido césped. Muchas veces nombrado en los textos y tratados antiguos celebrando sus propiedades, ha mantenido a lo largo de los siglos, un papel muy importante.<br /> Indicaciones: Afecciones bronquiales, Resfriados, Tos, Tos ferina.<br /> Propiedades: Antiespasmódica, Antiséptica, Digestiva, Pectoral.<br /> Usos: Infusión.<br /> Partes utilizadas: Flor, Hoja. ",
+    "usos" : "» Afecciones bronquiales » Resfriados » Tos » Tos ferina",
+    "titulo" : "Serpol",
+    "id" : "141",
+    "imagen" : "serpol1",
+    "genero" : "Labiadas"
+  },
+  {
+    "contenido" : "Francés\/Inglés: Sésame.<br /> genero: Pedaliáceas.<br /><br /> El sésamo es una planta originaria de África muy conocida por sus semillas ricas en aceites. Es una de las plantas oleaginosas que se han cultivado desde tiempos remotos y que fue muy apreciada por las civilizaciones antiguas. Sus semillas se usan además como condimento<br /> El aceite de sésamo tiene valiosas propiedades cosmetológicas ya que es rico en ácidos grasos esenciales y en vitamina E. Se incluye en algunas emulsiones hidratantes y cremas de protección solar por sus propiedades regenerativas y su capacidad para filtrar el espectro ultravioleta. Sus abundantes ácidos grasos esenciales combaten eficazmente la sequedad de la piel, aportándole suavidad y elasticidad. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Sésamo",
+    "id" : "142",
+    "imagen" : "sesamo1",
+    "genero" : "Pedaliáceas"
+  },
+  {
+    "contenido" : " La soja ó soya, soy en japonés, es una planta oleaginosa trepadora, de flores color violeta y características parecidas a la judía.<br /> Originaria de China y Japón donde se viene utilizando desde hace muchos siglos por sus propiedades nutritivas y curativas gracias a la presencia de compuestos flavonoides contenidos en la semilla, está hoy muy extendida en América, sobre todo en Estados Unidos, y en Europa. Sus principios activos tienen un efecto sedante. Además, aumentan la capacidad de concentración y estimulan la digestión. Contiene una alta cantidad de hierro y potasio.<br /> Recientemente, ha sido rescatada por los laboratorios cosméticos por sus efectos anti-envejecimiento. La soja contiene propiedades para hidratar, aclarar manchas y reforzar las defensas cutáneas. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Soja",
+    "id" : "143",
+    "imagen" : "soja",
+    "genero" : ""
+  },
+  {
+    "contenido" : " Esta planta, también conocida como orejas de asno, crece en los suelos muy húmedos bajo los álamos, en las orillas de los ríos o en los lugares pantanosos. Es una de las mejores plantas cicatrizantes y ha tenido numerosas aplicaciones medicinales; así, ya desde el siglo I Dioscórido la prescribía contra los esputos de sangre. La alantoina, una sustancia activa presente en el extracto de esta planta, se utiliza en cosmetologia. Inglés: Feverfew.<br /> genero: Compuestas.<br /><br /> Planta de olor fuerte y sabor amargo, empleada en medicina como estomacal y vermífuga. Crece en los setos y ribazos de toda Europa. Antiguos archivos médicos ya mencionan las propiedades del tanaceto como calmante del dolor de cabeza y antipirético (de ahí su nombre inglés Feverfew). Las investigaciones realizadas sobre el Tanaceto se deben a un hecho que tuvo lugar en el Reino Unido. En 1978, la prensa británica relató la historia de una mujer que bajo los consejos de un minero galés, pudo erradicar totalmente sus jaquecas con la única ayuda del tanaceto. Ante este excepcional resultado, la sección de Farmacognosia del Chelsea College de Londres, llevó a cabo profundos estudios fitoquímicos que demostraron sus propiedades antimigrañosas. Esta acción se debe a su contenido partenólido.<br /> Propiedades: Estomacal, Vermífuga. Prevención de crisis de jaqueca.<br /> Usos: Infusión. .<br /> Partes utilizadas: Sumidades floridas. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Tanaceto",
+    "id" : "144",
+    "imagen" : "tanaceto",
+    "genero" : "Compuestas"
+  },
+  {
+    "contenido" : "Euskera: Harkaitzetako Tea<br /> Francés: Thé.<br /> Inglés: Tea.<br /> genero: Teáceas.<br /><br /> Indicaciones: Indigestión.<br /> Propiedades: Digestiva, Tonificante.<br /> Usos: Infusión.<br /> Partes utilizadas: Hoja, Flor, Tallo. ",
+    "usos" : "» Indigestión",
+    "titulo" : "Té de Aragón",
+    "id" : "145",
+    "imagen" : "tearagon",
+    "genero" : "Teáceas"
+  },
+  {
+    "contenido" : "El té chino alcanza unos 3-6 metros de altura, florece y produce frutos en abundancia, es precoz y genera hojas de hasta 9 cm. de largo. Se produce en zonas tropicales y climas templados.<br /> El Té rojo, conocido como el Té de los Emperadores, es una de las variedades de té más apreciados en China por sus propiedades. Consumido desde tiempos inmemoriales, se le atribuyen propiedades diuréticas, antibióticas, reguladoras del tránsito intestinal, el metabolismo y el colesterol, así como reductor de las grasas. En Europa se conoce desde hace relativamente poco tiempo. Diversos estudios han puesto de manifiesto sus propiedades como antioxidante. <br /> Usos: Sobrepeso, Quema-grasa, depurativo. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Te Rojo ó Té Chino",
+    "id" : "146",
+    "imagen" : "camelia",
+    "genero" : ""
+  },
+  {
+    "contenido" : "Arbusto teáceo del Extremo Oriente, de hojas elípticas y dentadas, flores blancas y fruto capsular. Originaria de China meridional, se cultiva en todo el Sureste asiático. Introducido en Europa en la segunda mitad del Siglo XVII, el té es digestivo, excitante y diurético.<br /> El Té Verde es conocido desde hace miles de años por sus virtudes diuréticas. Es un té preparado para uso medicinal, recogido antes de la fermentación para conservar íntegramente sus sustancias activas. Su efecto es doble. Por un lado, estimula y prolonga la vida de la adrenalina y por otro, acompleja las enzimas digestivas a nivel del intestino, disminuyendo así la asimilación de azúcares y grasas. Estas características hacen del té verde un afamado lipolítico de gran reputación en el marco del sobrepeso y la obesidad. La efectividad del té verde ha sido puesta de manifiesto a través de diferentes ensayos clínicos. Recientemente ha sido incorporado a la industria cosmética, el té blanco, considerado dos veces más eficaz que el verde en la lucha contra los radicales libres.<br /> Usos: Obesidad, Sobrepeso, Quema-grasa. Diurético, limita la absorción de azúcares y grasas.<br /> Propiedades: Es rico en calcio, flúor, hierro, vitaminas y otros minerales.<br /> Partes utilizadas: Brotes y hojas. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Té Verde",
+    "id" : "147",
+    "imagen" : "green_tea",
+    "genero" : ""
+  },
+  {
+    "contenido" : "Euskera: Ezkia<br /> Otros nombres: Tilo de invierno.<br /> Francés: Tilleul.<br /> Inglés: Lime-tree.<br /> genero: Tiliáceas.<br /><br /> El tilo es un hermoso árbol de más de 30 metros de alto, común en Europa. Sus hojas dentelladas, de un hermoso color verde azulado por encima y más claro por el revés, tienen figura de corazón. Con sus flores, de color blanco amarillento. se prepara una infusión de efectos tranquilizantes.<br /> Indicaciones: Indigestión, Insomnio, Nerviosismo.<br /> Propiedades: Antiacética, Hipnótica, Sedante.<br /> Usos: Infusión.<br /> Partes utilizadas: Flor.<br /> Historia y tradición:<br /> Desde la Antigüedad, se encuentran testimonios del uso terapéutico del Tilo. Se utilizaban tanto la corteza como las hojas y las flores. ",
+    "usos" : "» Indigestión » Insomnio » Nerviosismo",
+    "titulo" : "Tilo",
+    "id" : "148",
+    "imagen" : "tilo1",
+    "genero" : "Tiliáceas"
+  },
+  {
+    "contenido" : "Euskera: Ezkaia<br /> Francés: Thym.<br /> Inglés: Thyme.<br /> genero: Labiadas.<br /><br /> Planta arbustiva, muy olorosa, de flores blancas ó rosadas, utilizada en perfumería, cocina y farmacología. El tomillo es una especie botánica típica de la flora mediterránea. Su nombre latino thymus (oloroso), hace referencia a su intenso aroma. Sus hojas son ricas en un aceite esencial cuyas propiedades se utilizan en fitoterapia.<br /> Usos y propiedades:<br /> El tomillo posee propiedades antisépticas utilizadas para tratar las infecciones pulmonares. Calma la tos espasmódica de la tos ferina y del enfisema. Actúa sobre la rinorrea, disminuyendo las secreciones nasales. Es también eficaz para aliviar los problemas intestinales: vientre hinchado y aerofagia. Su acción antiséptica se ejerce igualmente sobre el sistema digestivo y especialmente en los casos de diarrea. El tomillo tiene virtudes estimulantes y antivíricas por lo que se puede utilizar para prevenir las recidivas del herpes zóster.<br /> Indicaciones: Aparato respiratorio, Falta de apetito, Lombrices.<br /> Propiedades: Antiespasmódica, Antiséptica, Digestiva, Tonificante, Vermífuga.<br /> Usos: Infusión.<br /> Partes utilizadas: Flor, Hoja.<br /> Uso tópico como hierba aromática. ",
+    "usos" : "» Aparato respiratorio » Falta de apetito » Lombrices",
+    "titulo" : "Tomillo",
+    "id" : "149",
+    "imagen" : "thymus",
+    "genero" : "Labiadas"
+  },
+  {
+    "contenido" : "Euskera: Garraiska<br /> Francés: Mélisse.<br /> genero: Labiadas.<br /><br /> Planta herbácea, muy ramificada, con hojas pecioladas, ovales y dentadas con suave olor a limón, y flores blancas ó rosadas, cuyas sumidades, así como las hojas, aromáticas, se usan como remedio tónico y antiespasmódico. Crece en huertos, setos, ribazos y torrentes, en la región mediterránea suroriental de Europa.<br /> El toronjil es originario de Asia menor y fué introducido en Europa en la Edad Media. Sus hojas se utilizan terapéuticamente y tienen un aroma suave de aceite esencial. El toronjil se utiliza en fitoterapia por su acción sedante y porque actúa contra los trastornos de origen nervioso.<br /> Indicaciones: Desvanecimientos, Dolor de cabeza, Nerviosismo.<br /> Propiedades: Antiespasmódica, Calmante, Tonificante.<br /> Usos: Infusión.<br /> Partes utilizadas: Hoja, Tallo. ",
+    "usos" : "» Desvanecimientos » Dolor de cabeza » Nerviosismo",
+    "titulo" : "Toronjil",
+    "id" : "150",
+    "imagen" : "toronjil",
+    "genero" : "Labiadas"
+  },
+  {
+    "contenido" : "Euskera: Naharra<br /> Otros nombes: Trébol de los prados.<br /> Francés: Trèfle.<br /> Inglés: Clover, shamrock.<br /> genero: Papilionáceas.<br /><br /> Planta herbácea de hojas trifoliadas y flores blancas, rosadas o púrpuras, de la que varias especies cultivadas constituyen excelentes forrajes. Los tréboles se encuentran distribuidos principalmente por las zonas subtropicales y templadas del Antiguo Mundo; sólo en Europa existen unas 100 especies.<br /> Indicaciones: Estreñimiento, Hígado.<br /> Propiedades: Diurética.<br /> Usos: Decocción.<br /> Partes utilizadas: Flor, Hoja. ",
+    "usos" : "» Estreñimiento » Hígado",
+    "titulo" : "Trébol",
+    "id" : "151",
+    "imagen" : "trebol",
+    "genero" : "Papilionáceas"
+  },
+  {
+    "contenido" : "Planta herbácea, de flores amarillas, y cuyas hojas y flores se emplean como pectorales.<br /> La floración del tusilago se presenta en febrero y es una de las más tempranas. Se conoce como huella de asno debido a la forma de sus hojas. Su nombre indica claramente sus propiedades terapéuticas, ya que viene del latín tussis que significa tos y de agere que significa expulsar. Los médicos de comienzos del siglo XVIII prescribían sus hojas contra el asma y los resfriados. En el siglo XIX el tusilago se utilizó contra las erupciones cutáneas y la tiña.<br /> Partes utilizadas: Flor, Hoja. Francés: Vanille.<br /> Inglés: Vanilla.<br /> genero: Orquidácea.<br /><br /> La vainilla es un bejuco originario de México que fué transplantado al Brasil. Pertenece a la familia de las orquidáceas o vides herbáceas, de flores verdosas y fruto capsular en forma de una larga vaina de judía, muy oloroso.<br /> Su fruto se utiliza en confitería y en la elaboración del coñac y del ron.<br /> Se utiliza también en cosmetología por su acción protectora de las células de la piel.<br /> Partes utilizadas: Fruto. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Vainilla",
+    "id" : "160",
+    "imagen" : "vainilla",
+    "genero" : "Orquidácea"
+  },
+  {
+    "contenido" : "Euskera: Ardi Belarra<br /> genero: Valerianáceas. Planta herbácea de flores rosas ó blancas, fruto seco y rizoma fragante, que crece preferentemente en lugares húmedos. La valeriana común, oficinal ó menor, se usa como antiespasmódica. Con ella se prepara el licor y el agua de valeriana. Planta de porte majestuoso y follaje elegante, crece en las zonas húmedas de Europa y Estados Unidos. Su raiz exhala un olor particular que atrae a los gatos, de ahí su nombre de hierba de los gatos. Etimológicamente, valeriana procede de valere, estar aliviado.<br /> Usos y propiedades:<br /> Sus raíces son ricas en aceites esenciales con acción sedativa, además son muy utilizadas en el tratamiento del insomnio y para actuar contra el estrés, la angustia y la ansiedad. Produce efectos sedantes y relajantes que permiten reducir el nerviosismo y la agitación asociados al estrés y mejorar el humor y la concentración. Asimismo, favorece la conciliación del sueño y mejora la calidad de éste sin agotar ni debilitar. También se utiliza en las curas de desintoxicación del tabaco, pues calma la ansiedad y nerviosismo que acompaña a la deshabituación. Se utiliza en numerosos programas fitoterapéuticos para dejar de fumar.<br /> Indicaciones: Asma, Nerviosismo. Propiedades: Antiespasmódica, Hipnótica, Sedante.<br /> Usos: Infusión, Maceración.<br /> Partes utilizadas: Raiz. ",
+    "usos" : "» Asma » Nerviosismo",
+    "titulo" : "Valeriana",
+    "id" : "161",
+    "imagen" : "valeriana2",
+    "genero" : "Valerianáceas"
+  },
+  {
+    "contenido" : "genero: Compuestas.<br /><br /> La vellosilla, planta herbácea de flores amarillas, así llamada por la multitud de pelitos que tapizan sus hojas, abunda en las rocallas y en los prados de altura. Su cocimiento, amargo y astringente, se utiliza habitualmente para fortalecer la vista y curar las heridas.<br /> Usos y propiedades:<br /> La vellosilla también conocida con el nombre de pilosela es una de las plantas de acción diurética más notable dentro de la gran diversidad de plantas existentes. Su acción se traduce en un notable aumento de la orina, acompañado de un incremento de la eliminación de la sal y la urea. Por todo ello, se recomienda su utilización en caso de retención de líquidos y como depurativo, especialmente como coadyuvante en las dietas de control de peso.<br /> Asimismo, ayuda a eliminar y a prevenir la formación de edemas de los miembros inferiores. Gracias a su acción sobre la eliminación de los cloruros, actúa favorablemente en caso de hipertensión a la vez que potencia la acción de los regímenes sin sal. Gracias a la presencia de umbeliferona, estimula la actividad hepática.<br /> Usos: Diurético, Depurativo. Edemas, Hipertensión.<br /> Partes utilizadas: Planta entera. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Vellosilla",
+    "id" : "162",
+    "imagen" : "vellosilla",
+    "genero" : "Compuestas"
+  },
+  {
+    "contenido" : "Euskera: Belberina<br /> Francés: Verveine.<br /> Inglés: Vervain.<br /> genero: Verbenáceas.<br /><br /> Planta arbustiva, subarbustiva o herbácea, de flores de varios colores, una de cuyas especies, amarga y astringente, se usó como resolutiva, febrífuga y vulneraria. Célebre en la Antigüedad como planta sagrada de los Celtas, su cocimiento se usa en medicina.<br /> Indicaciones: Bazo, Erupciones de la piel, Hígado, Riñón.<br /> Propiedades: Depurativa.<br /> Usos: Decocción, Maceración.<br /> Partes utilizadas: Flor, Hoja. ",
+    "usos" : "» Bazo » Erupciones de la piel » Hígado » Riñón",
+    "titulo" : "Verbena",
+    "id" : "163",
+    "imagen" : "verbena",
+    "genero" : "Verbenáceas"
+  },
+  {
+    "contenido" : "Euskera: Jire Eguzkia<br /> genero: Boragináceas.<br /><br /> La verrucaria ó verruguera, es una planta originaria del Perú, de hojas ovales de color verde grisáceo, y flores azuladas muy olorosas, propia de cultivos y baldíos de la Europa mediterránea.<br /> Indicaciones: Fiebre, Trastornos menstruales, Verrugas.<br /> Propiedades: Cicatrizante, Desinflamatoria, Emenagoga, Febrífuga, Purgante.<br /> Usos: Cataplasma, Decocción.<br /> Partes utilizadas: Raiz, Semilla. ",
+    "usos" : "» Fiebre » Trastornos menstruales » Verrugas",
+    "titulo" : "Verrucaria",
+    "id" : "164",
+    "imagen" : "verrucaria",
+    "genero" : "Boragináceas"
+  },
+  {
+    "contenido" : "Francés: Vigne.<br /> Inglés: Vine.<br /> genero: Vitáceas.<br /><br /> La vid roja, llamada así por el color rojo intenso de sus hojas en otoño debido a su riqueza en taninos antociánicos. Es oriunda de la zona mediterránea.<br /> Usos y propiedades:<br /> El interés de estos principios activos se debe a su importante acción vitamínica P. Gracias a ella, se consigue por un lado disminuir la permeabilidad de los capilares y por otro, aumentar su resistencia. Esta beneficiosa acción a nivel circulatorio se ve favorecida por el papel desempeñado por los taninos astringentes y vasoconstrictores que favorecen el retorno venoso. <br /> La presencia de proantocianósidos en las hojas de la vid roja, permite una acción antirradicales libres y una estabilización del colágeno presente en las membranas de los vasos. En definitiva, la vida roja tonifica las venas, mejorando la sensación de piernas cansadas, las varices, la cuperosis, la fragilidad capilar y las hemorroides.<br /> Usos: Piernas cansadas. Desórdenes de la circulación venosa. Hemorroides, Varices y fragilidad vascular.<br /> Partes utilizadas: Hoja. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : " Vid Roja",
+    "id" : "165",
+    "imagen" : "vid",
+    "genero" : "Vitáceas"
+  },
+  {
+    "contenido" : "Francés: Violette.<br /> Inglés: Violet.<br /> genero: Violáceas.<br /><br /> Planta herbácea muy apreciada en jardinería por sus flores de color morado claro y a veces blanco, de suave perfume, y cuya infusión se emplea como pectoral y sudorífico. Por destilación de las flores se obtiene un aceite utilizado en perfumería. Crece en los bosques húmedos de toda Europa.<br /> Indicaciones: Afecciones bronquiales, Resfriados, Tos, Tumores.<br /> Propiedades: Emoliente, Expectorante, Sudorífica, Vomitiva.<br /> Usos: Infusión, Decocción, Maceración.<br /> Partes utilizadas: Flor, Hoja, Raiz. El Ylang-Ylang, también conocido como canaga, es un árbol pequeño que crece en los bosques húmedos de Extremo Oriente. Su flor se la conoce como la flor de las flores y es muy utilizada como flor ornamental. Además tiene un aroma similar al del jazmin, del que se dice que tiene propiedades afrodisíacas.<br /> La esencia de esta flor se utiliza con frecuencia en perfumería. En aromaterapia, es muy apreciada por sus propiedades calmantes y relajantes. Gracias a estas cualidades y sobre todo a su agradable y voluptuoso aroma, se emplea en la composición de muchas fragancias y lociones corporales.<br /> Su aceite esencial, por sus propiedades antisépticas y calmantes, se utiliza desde hace mucho tiempo en el tratamiento de la taquicardia. ",
+    "usos" : "» Afecciones bronquiales » Resfriados » Tos » Tumores",
+    "titulo" : "Ylang Ylang",
+    "id" : "166",
+    "imagen" : "ylangylang",
+    "genero" : "Violáceas"
+  },
+  {
+    "contenido" : " Francés: Carotte.<br /> Inglés: Carrot.<br /> genero: Umbelíferas.<br /><br /> Planta bianual, de raiz fusiforme, amarilla o rojiza, jugosa y comestible, la zanahoria se cultiva en toda Europa por su raíz, rica en azúcar, con fines exclusivamente alimentarios.<br /> De entre todas las hortalizas, la zanahoria es una de las más ricas en vitaminas y minerales. Su interés en fitoterapia se debe a su alto contenido en betacaroteno que el hígado transforma en Vitamina A según las necesidades del organismo. El betacaroteno es una vitamina para la belleza de la piel, la prepara para la exposición al sol, facilita el bronceado y previene las alergias solares al aumentar la producción de melanina que, por su efecto protector de las células, refuerza la resistencia de la epidermis a las agresiones de los rayos ultravioleta.<br /> Asimismo, contiene vitaminas B1, B2, C y oligoelementos. Aumenta la resistencia a las infecciones, favorece la producción de glóbulos rojos, activa todas las funciones de crecimiento y asegura el mantenimiento de la agudeza visual.<br /> Partes utilizadas: Raiz. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Zanahoria",
+    "id" : "167",
+    "imagen" : "zanahoria",
+    "genero" : "Umbelíferas"
+  },
+  {
+    "contenido" : "Inglés: Sarsaparilla.<br /> genero: Liliáceas.<br /><br /> Arbusto esmiláceo de flores verdosas y fruto en bayas globosas de color rojo. El cocimiento de la raiz se usa como sudorifico y depurativo. Las zarzaparrillas son plantas leñosas originarias de América Central y del Sur. La especie utilizada en fitoterapia se introdujo en Europa a mitad del Siglo XVI y se aconsejaba para curar las manifestaciones cutáneas de la sífilis.<br /> Usos y propiedades:<br /> Desde hace mucho tiempo, la medicina tradicional la utilizaba como anti-inflamatorio, depurativo y sudorífico. La zarzaparrilla favorece la curación de la psoriasis por disminución de la descamación de la piel. Se ha utilizado también por sus propiedades fortificantes y estimulantes. <br /> El estudio de su composición revela la presencia de esteroides de estructura similar a la progesterona, lo que permitiría su aplicación hormonal. En México y Sudamérica, se utiliza como estimulante de las funciones sexuales y para tratar los trastornos de la menopausia.<br /> Partes utilizadas: Raiz. ",
+    "usos" : "» Ver Descripción...",
+    "titulo" : "Zarzaparrilla",
+    "id" : "168",
+    "imagen" : "zarzaparrilla",
+    "genero" : "Liliáceas"
+  }
+]}
