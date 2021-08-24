@@ -76,14 +76,6 @@
         "titulo": "Computación"
     },
     {
-        "id": "23",
-        "titulo": "Cornudos"
-    },
-    {
-        "id": "24",
-        "titulo": "Crueles"
-    },
-    {
         "id": "25",
         "titulo": "Cuál es...?"
     },
@@ -112,10 +104,6 @@
         "titulo": "En qué se parece...?"
     },
     {
-        "id": "32",
-        "titulo": "Enanos"
-    },
-    {
         "id": "33",
         "titulo": "Era una vez"
     },
@@ -126,10 +114,6 @@
     {
         "id": "35",
         "titulo": "Farmacias"
-    },
-    {
-        "id": "36",
-        "titulo": "Feministas"
     },
     {
         "id": "37",
@@ -146,10 +130,6 @@
     {
         "id": "40",
         "titulo": "Había una vez...!"
-    },
-    {
-        "id": "41",
-        "titulo": "Hombres"
     },
     {
         "id": "42",
@@ -176,10 +156,6 @@
         "titulo": "Locos"
     },
     {
-        "id": "48",
-        "titulo": "Machistas"
-    },
-    {
         "id": "49",
         "titulo": "Mamá...! o Papá...!"
     },
@@ -194,10 +170,6 @@
     {
         "id": "52",
         "titulo": "Militares"
-    },
-    {
-        "id": "53",
-        "titulo": "Mujeres"
     },
     {
         "id": "54",
@@ -232,10 +204,6 @@
         "titulo": "Papá, Papá"
     },
     {
-        "id": "62",
-        "titulo": "Pepito"
-    },
-    {
         "id": "63",
         "titulo": "Policías"
     },
@@ -268,20 +236,12 @@
         "titulo": "Qué le dice...?"
     },
     {
-        "id": "71",
-        "titulo": "Religiosos"
-    },
-    {
         "id": "72",
         "titulo": "Restaurantes"
     },
     {
         "id": "73",
         "titulo": "Secretarias"
-    },
-    {
-        "id": "74",
-        "titulo": "Suegras"
     },
     {
         "id": "75",
